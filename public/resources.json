@@ -1,0 +1,5249 @@
+{
+  "source": "/Users/shahbazqureshi/Downloads/(My Copy) List of Help-Seeking Resources.xlsx",
+  "generatedAt": "",
+  "resourceCount": 186,
+  "resources": [
+    {
+      "id": "national-resources-3-peer-support-warmline",
+      "name": "Peer Support Warmline",
+      "region": "National",
+      "service": "Peer Support",
+      "focus": [
+        "Peer Support"
+      ],
+      "focusText": "Peer Support",
+      "mode": "Virtual",
+      "cost": "No cost",
+      "age": "18+",
+      "languageHours": "English (6pm-12pm EST, 7 days a week)",
+      "description": "Warm Line is a confidential and anonymous service for adults in need of a friend with an empathetic ear and was the first program in Canada to offer a peer support telephone, online chat, and text messaging service.  It is operated by peers who have experienced loneliness, isolation and anxiety themselves. The support provided in Warm Line interactions includes goal setting, problem solving and connection with resources.",
+      "contact": "Call: 416-960-9276                       Text: 647-557-5882",
+      "serviceArea": "",
+      "website": "https://warmline.ca",
+      "notes": "",
+      "sourceSheet": "National Resources",
+      "tags": [
+        "adult",
+        "english",
+        "free",
+        "national",
+        "peer-support",
+        "phone",
+        "text-chat",
+        "virtual"
+      ]
+    },
+    {
+      "id": "national-resources-4-kids-help-phone",
+      "name": "Kids Help Phone",
+      "region": "National",
+      "service": "Crisis + Peer Support",
+      "focus": [
+        "Crisis",
+        "Professional Counselling"
+      ],
+      "focusText": "Crisis + Professional Counselling",
+      "mode": "Virtual",
+      "cost": "No cost",
+      "age": "46167.0",
+      "languageHours": "English (24/7); French (24/7)",
+      "description": "Kids Help Phone is Canada’s only 24/7 e-mental health service offering free, multilingual and confidential support to help all young people Feel Out Loud.",
+      "contact": "Text CONNECT to 686868            Call: 1-800-668-6868                  Text: 741741 (for adults)",
+      "serviceArea": "",
+      "website": "https://kidshelpphone.ca/urgent-help",
+      "notes": "",
+      "sourceSheet": "National Resources",
+      "tags": [
+        "counselling",
+        "crisis",
+        "english",
+        "free",
+        "french",
+        "national",
+        "peer-support",
+        "phone",
+        "virtual",
+        "youth"
+      ]
+    },
+    {
+      "id": "national-resources-5-nisa-helpline",
+      "name": "NISA Helpline",
+      "region": "National",
+      "service": "Peer Support",
+      "focus": [
+        "Peer Support for Muslim women"
+      ],
+      "focusText": "Peer Support for Muslim women",
+      "mode": "Virtual",
+      "cost": "No cost",
+      "age": "14+ (women/girls only)",
+      "languageHours": "English (8am-12am EST, 7 days a week); Urdu/French/Somali/Arabic (12pm-4pm EST, 7 days a week)",
+      "description": "Nisa Helpline is a confidential, anonymous & FREE 16-hour helpline for Muslim women and girls across North America, with support available in French, Urdu, Arabic, Somali and English!",
+      "contact": "Call: 1-888-315-6472",
+      "serviceArea": "",
+      "website": "https://www.nisafoundation.ca/programs/nisa-helpline",
+      "notes": "",
+      "sourceSheet": "National Resources",
+      "tags": [
+        "crisis",
+        "english",
+        "free",
+        "french",
+        "middle-eastern",
+        "muslim",
+        "national",
+        "peer-support",
+        "phone",
+        "south-asian",
+        "virtual"
+      ]
+    },
+    {
+      "id": "national-resources-6-black-youth-helpline",
+      "name": "Black Youth Helpline",
+      "region": "National",
+      "service": "Crisis + Peer Support",
+      "focus": [
+        "Black Youth"
+      ],
+      "focusText": "Black Youth",
+      "mode": "Virtual but connects to relevant community supports",
+      "cost": "No cost",
+      "age": "Youth",
+      "languageHours": "English (9am-10pm EST, 7 days a week)",
+      "description": "The Black Youth Helpline provides immediate services for Black\nyouth, and connects individuals with community and clinical resources.",
+      "contact": "Call: 416-285-9944 or 1-833-294-8650 (toll free)",
+      "serviceArea": "",
+      "website": "https://blackyouth.ca",
+      "notes": "",
+      "sourceSheet": "National Resources",
+      "tags": [
+        "black",
+        "counselling",
+        "crisis",
+        "english",
+        "free",
+        "in-person",
+        "national",
+        "peer-support",
+        "phone",
+        "virtual",
+        "youth"
+      ]
+    },
+    {
+      "id": "national-resources-7-hope-for-wellness",
+      "name": "Hope for Wellness",
+      "region": "National",
+      "service": "Peer Support (Counselling)",
+      "focus": [
+        "Indigenous Peoples"
+      ],
+      "focusText": "Indigenous Peoples",
+      "mode": "Virtual",
+      "cost": "No cost",
+      "age": "Any age",
+      "languageHours": "English (24/7), French (24/7), Cree/Ojibway/Inuktitut (upon request)",
+      "description": "Experienced and culturally competent Help Line counsellors can help if you:\n• Want to talk\n• Are distressed\n• Have strong emotional reactions\n• Are triggered by painful memories",
+      "contact": "Call: 1-855-242-3310                     Chat online: https://www.hopeforwellness.ca/",
+      "serviceArea": "",
+      "website": "https://www.hopeforwellness.ca",
+      "notes": "",
+      "sourceSheet": "National Resources",
+      "tags": [
+        "adult",
+        "counselling",
+        "crisis",
+        "english",
+        "free",
+        "french",
+        "indigenous",
+        "national",
+        "peer-support",
+        "phone",
+        "virtual"
+      ]
+    },
+    {
+      "id": "national-resources-8-brighter-days-an-indigenous-wellness-program",
+      "name": "Brighter Days: An Indigenous Wellness Program",
+      "region": "National",
+      "service": "Wellness Program (Small Group Support)",
+      "focus": [
+        "Indigenous Youth"
+      ],
+      "focusText": "Indigenous Youth",
+      "mode": "Virtual",
+      "cost": "No cost",
+      "age": "46202.0",
+      "languageHours": "Primarily English (upon demand)",
+      "description": "An Indigenous Wellness Program supported by Sun Life was developed by Indigenous educators, school counsellors and community program workers to empower First Nations, Inuit, Metis youth with skills, tools and resources to support their well-being. The program is offered to Indigenous youth from six to 29 years old in both audio and video format.",
+      "contact": "Contact indigenous@kidshelpphone.ca for more info",
+      "serviceArea": "",
+      "website": "https://kidshelpphone.ca/get-involved/group-registration-for-brighter-days-an-indigenous-wellness-program/",
+      "notes": "5+ people needed to book a group session",
+      "sourceSheet": "National Resources",
+      "tags": [
+        "english",
+        "free",
+        "indigenous",
+        "national",
+        "peer-support",
+        "virtual",
+        "youth"
+      ]
+    },
+    {
+      "id": "national-resources-9-hope-by-camh",
+      "name": "Hope by CAMH",
+      "region": "National",
+      "service": "App (Android/iOS)",
+      "focus": [
+        "Suicide Prevention Plan"
+      ],
+      "focusText": "Suicide Prevention Plan",
+      "mode": "Virtual (app)",
+      "cost": "No cost",
+      "age": "Any age",
+      "languageHours": "Primarily English (24/7)",
+      "description": "Hope by CAMH is a free smartphone app that provides suicide prevention information, tools and crisis resources to support and guide individuals when they are experiencing thoughts of suicide. One of the key features of this app is the ability for individuals to create a personalized suicide safety plan, which can be done in consultation with their healthcare professional, loved one, or someone who they have a trusting relationship with. The Hope by CAMH safety plan can be accessed at any time – especially if an individual is experiencing thoughts of suicide – and it can be updated as their situation changes.",
+      "contact": "For technical support: appsupport@camh.ca",
+      "serviceArea": "",
+      "website": "https://www.camh.ca/hopebycamhapp",
+      "notes": "App available on Android and iOS",
+      "sourceSheet": "National Resources",
+      "tags": [
+        "adult",
+        "crisis",
+        "english",
+        "free",
+        "national",
+        "phone",
+        "self-guided",
+        "virtual"
+      ]
+    },
+    {
+      "id": "national-resources-10-for-a-safer-space",
+      "name": "For a Safer Space",
+      "region": "National",
+      "service": "Holistic Human Care Services (AI based)",
+      "focus": [
+        "Mental Health Care",
+        "Human Rights"
+      ],
+      "focusText": "Mental Health Care and Human Rights",
+      "mode": "Virtual (AI service)",
+      "cost": "No cost",
+      "age": "Any age",
+      "languageHours": "Primarily English (24/7 AI service)",
+      "description": "For A Safer Space is one and only Canadian non-profit organization dedicating to provide accessible, affordable, and affirming mental health care and human rights related advocacy support.",
+      "contact": "AI service: http://fassling.ai/",
+      "serviceArea": "",
+      "website": "http://www.forasaferspace.org",
+      "notes": "AI service",
+      "sourceSheet": "National Resources",
+      "tags": [
+        "adult",
+        "counselling",
+        "english",
+        "free",
+        "low-cost",
+        "national",
+        "virtual"
+      ]
+    },
+    {
+      "id": "national-resources-11-empower-me",
+      "name": "Empower Me",
+      "region": "National",
+      "service": "General",
+      "focus": [
+        "Therapy",
+        "Counselling",
+        "Coaching"
+      ],
+      "focusText": "Therapy/Counselling/Coaching",
+      "mode": "Virtual or in-person",
+      "cost": "School specific plan",
+      "age": "Depends",
+      "languageHours": "Primarily English (24/7)",
+      "description": "Empower Me allows students to connect with qualified counsellors, consultants, and life coaches for a variety of issues. \n\nAs an undergraduate or graduate student, you're entitled to sessions delivered in person, by telephone, or by video-counselling. Confirm if your school offers Empower Me by visiting your wellness services/resources website or centre.",
+      "contact": "Call: 1-833-628-5589",
+      "serviceArea": "",
+      "website": "Each University has a specifc link: to find the inforamtion for your school, simply search Empower Me along with your school name on Google!",
+      "notes": "App is also available",
+      "sourceSheet": "National Resources",
+      "tags": [
+        "counselling",
+        "english",
+        "in-person",
+        "national",
+        "phone",
+        "self-guided",
+        "student",
+        "virtual",
+        "youth"
+      ]
+    },
+    {
+      "id": "national-resources-12-talk-suicide-canada",
+      "name": "Talk Suicide Canada",
+      "region": "National",
+      "service": "Crisis",
+      "focus": [
+        "Crisis"
+      ],
+      "focusText": "Crisis",
+      "mode": "Virtual",
+      "cost": "No Cost",
+      "age": "Any age",
+      "languageHours": "English (24/7); French (24/7)",
+      "description": "If you are feeling like you have lost hope and are struggling to cope, if you are dealing with thoughts of suicide, or if you are worried about someone else, 9-8-8: Suicide Crisis Helpline is here for you. When you reach out, a trained responder will listen without judgement, provide support and understanding, and can tell you about resources that will help.",
+      "contact": "Call: 988                                        Text: 988",
+      "serviceArea": "",
+      "website": "https://talksuicide.ca/",
+      "notes": "",
+      "sourceSheet": "National Resources",
+      "tags": [
+        "adult",
+        "crisis",
+        "english",
+        "free",
+        "french",
+        "national",
+        "phone",
+        "virtual"
+      ]
+    },
+    {
+      "id": "national-resources-13-trans-lifeline",
+      "name": "Trans Lifeline",
+      "region": "National",
+      "service": "Crisis + Peer Support",
+      "focus": [
+        "Trans",
+        "Questioning Peers"
+      ],
+      "focusText": "Trans and Questioning Peers",
+      "mode": "Virtual",
+      "cost": "No cost",
+      "age": "Any age",
+      "languageHours": "Primarily English                                            Operating hours, Monday through Friday:                                                                     10 AM – 6 PM Pacific\n11 AM – 7 PM Mountain\n12 PM – 8 PM Central\n1 PM – 9 PM Eastern\"",
+      "description": "Trans Lifeline is a grassroots hotline and microgrants 501(c)(3) non-profit organization offering direct emotional and financial support to trans people in crisis – for the trans community, by the trans community.",
+      "contact": "Call: 877-330-6366",
+      "serviceArea": "",
+      "website": "https://translifeline.org",
+      "notes": "",
+      "sourceSheet": "National Resources",
+      "tags": [
+        "adult",
+        "crisis",
+        "english",
+        "free",
+        "lgbtq",
+        "national",
+        "peer-support",
+        "phone",
+        "virtual"
+      ]
+    },
+    {
+      "id": "national-resources-14-telus-health",
+      "name": "Telus Health",
+      "region": "National",
+      "service": "App (Android/iOS)",
+      "focus": [
+        "Workplace Wellbeing"
+      ],
+      "focusText": "Workplace Wellbeing",
+      "mode": "Virtual but connects to relevant supports",
+      "cost": "Employee specific plan",
+      "age": "Depends",
+      "languageHours": "English",
+      "description": "Our services and tools help support the mental, physical, and financial health of organizations and their employees.",
+      "contact": "--",
+      "serviceArea": "",
+      "website": "https://www.telus.com/en/health/employers",
+      "notes": "",
+      "sourceSheet": "National Resources",
+      "tags": [
+        "english",
+        "national",
+        "self-guided",
+        "virtual"
+      ]
+    },
+    {
+      "id": "national-resources-16-kid-s-help-phone-resources-around-me",
+      "name": "Kid's Help Phone Resources Around Me",
+      "region": "National",
+      "service": "Service Directory",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "Virtual but connects to relevant supports",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Resources Around Me allows you to search for resources in your community like Counselling and Mental Health Support, Sexual Health Support, Housing Support, Legal Support, Job Help, and more.",
+      "contact": "--",
+      "serviceArea": "",
+      "website": "https://kidshelpphone.ca/resources-around-me",
+      "notes": "",
+      "sourceSheet": "National Resources",
+      "tags": [
+        "counselling",
+        "directory",
+        "free",
+        "national",
+        "peer-support",
+        "phone",
+        "virtual"
+      ]
+    },
+    {
+      "id": "national-resources-17-affordable-therapy-network",
+      "name": "Affordable Therapy Network",
+      "region": "National",
+      "service": "Therapy/Counselling Directory",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "Virtual but connects to in-person/online supports",
+      "cost": "Varies (sliding scale)",
+      "age": "",
+      "languageHours": "",
+      "description": "A directory of therapists offering affordable counselling across Canada",
+      "contact": "--",
+      "serviceArea": "",
+      "website": "https://affordabletherapynetwork.com/?fbclid=IwAR1iM9y_Q80gLfEAFAdkqeCvlfwqP5uUWdniW0AiQIbyQdKG8WlH2sEOPgM",
+      "notes": "Online and virtual options available; free consultations + low cost/sliding scale options available",
+      "sourceSheet": "National Resources",
+      "tags": [
+        "counselling",
+        "directory",
+        "free",
+        "in-person",
+        "low-cost",
+        "national",
+        "virtual"
+      ]
+    },
+    {
+      "id": "national-resources-18-take-care-community",
+      "name": "Take Care Community",
+      "region": "National",
+      "service": "Resource Directory",
+      "focus": [
+        "Caregivers"
+      ],
+      "focusText": "Caregivers",
+      "mode": "Virtual but connects to relevant supports",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "This platform, a collaboration between the National Alliance for Caregiving and the Adira Foundation, provides support to caregivers by offering meaningful resources for caregivers, by caregivers.",
+      "contact": "--",
+      "serviceArea": "",
+      "website": "https://www.takecare.community/resources/",
+      "notes": "",
+      "sourceSheet": "National Resources",
+      "tags": [
+        "directory",
+        "free",
+        "national",
+        "peer-support",
+        "virtual"
+      ]
+    },
+    {
+      "id": "national-resources-19-it-gets-better-canada",
+      "name": "It Gets Better Canada",
+      "region": "National",
+      "service": "Service Directory",
+      "focus": [
+        "General",
+        "but emphasize on 2SLGBTQIA",
+        "gender",
+        "sexually diverse individuals"
+      ],
+      "focusText": "General, but emphasize on 2SLGBTQIA+/gender and sexually diverse individuals",
+      "mode": "Virtual but connects to relevant supports",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "It Gets Better Canada is a registered charity in Canada that envisions a world where all 2SLGBTQ+ youth are free to live equally and know their worthiness and power as individuals. Its mission is to uplift, empower, and connect 2SLGBTQ+ youth across Canada.",
+      "contact": "--",
+      "serviceArea": "",
+      "website": "https://itgetsbettercanada.org/get-help/",
+      "notes": "",
+      "sourceSheet": "National Resources",
+      "tags": [
+        "directory",
+        "free",
+        "lgbtq",
+        "national",
+        "virtual",
+        "youth"
+      ]
+    },
+    {
+      "id": "national-resources-20-2slgbtqi-community-resource-directory",
+      "name": "2SLGBTQI+ Community Resource Directory",
+      "region": "National",
+      "service": "Resource Directory",
+      "focus": [
+        "2SLGBTQIA",
+        "gender",
+        "sexually diverse"
+      ],
+      "focusText": "2SLGBTQIA+/gender and sexually diverse",
+      "mode": "Virtual but connects to relevant supports",
+      "cost": "Varies",
+      "age": "",
+      "languageHours": "",
+      "description": "Canada’s national 2SLGBTQI+ community resource directory for 2SLGBTQI+-specific programs, services and supports. Find community resource listings and more from across all 10 provinces and three territories: from St. John’s to Victoria, Iqaluit to Windsor, and everywhere in between",
+      "contact": "--",
+      "serviceArea": "",
+      "website": "https://inmagazine.ca/directory/",
+      "notes": "",
+      "sourceSheet": "National Resources",
+      "tags": [
+        "directory",
+        "lgbtq",
+        "national",
+        "peer-support",
+        "virtual"
+      ]
+    },
+    {
+      "id": "national-fr-ca-resources-3-tel-jeunes",
+      "name": "Tel Jeunes",
+      "region": "National - French",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Phone and text line for youth under 20",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://www.teljeunes.com/Accueil",
+      "notes": "",
+      "sourceSheet": "National FR CA Resources",
+      "tags": [
+        "free",
+        "national",
+        "phone",
+        "regional",
+        "text-chat",
+        "youth"
+      ]
+    },
+    {
+      "id": "national-fr-ca-resources-4-suicide-action-montr-al",
+      "name": "Suicide action Montréal",
+      "region": "National - French",
+      "service": "",
+      "focus": [
+        "Suicide"
+      ],
+      "focusText": "Suicide",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Crisis phone line for folks considering suicide",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://suicideactionmontreal.org/en/",
+      "notes": "",
+      "sourceSheet": "National FR CA Resources",
+      "tags": [
+        "crisis",
+        "free",
+        "national",
+        "phone",
+        "regional"
+      ]
+    },
+    {
+      "id": "national-fr-ca-resources-5-tel-aide",
+      "name": "Tel Aide",
+      "region": "National - French",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Listening service for those struggling with mental health issues",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://telaidemontreal.org/en/",
+      "notes": "",
+      "sourceSheet": "National FR CA Resources",
+      "tags": [
+        "counselling",
+        "free",
+        "national",
+        "regional"
+      ]
+    },
+    {
+      "id": "national-fr-ca-resources-6-ecoute-entraide",
+      "name": "Ecoute Entraide",
+      "region": "National - French",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Listening service + support groups in Montreal",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://www.ecoute-entraide.org/",
+      "notes": "",
+      "sourceSheet": "National FR CA Resources",
+      "tags": [
+        "free",
+        "national",
+        "peer-support",
+        "regional"
+      ]
+    },
+    {
+      "id": "national-fr-ca-resources-7-interligne",
+      "name": "Interligne",
+      "region": "National - French",
+      "service": "",
+      "focus": [
+        "LGBTQ2"
+      ],
+      "focusText": "LGBTQ2+",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Pour les personnes concernées par la diversité sexuelle et la pluralité des genres.",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://interligne.co/en/",
+      "notes": "",
+      "sourceSheet": "National FR CA Resources",
+      "tags": [
+        "free",
+        "lgbtq",
+        "national",
+        "regional"
+      ]
+    },
+    {
+      "id": "national-fr-ca-resources-8-relief",
+      "name": "Relief",
+      "region": "National - French",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Support groups for those with depression and/or anxiety and/or bipolar disorder",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://myrelief.ca/relief-1/home",
+      "notes": "",
+      "sourceSheet": "National FR CA Resources",
+      "tags": [
+        "free",
+        "national",
+        "peer-support",
+        "regional"
+      ]
+    },
+    {
+      "id": "national-fr-ca-resources-9-mcgill-students-nightline",
+      "name": "McGill Students' Nightline",
+      "region": "National - French",
+      "service": "",
+      "focus": [
+        "Peer support"
+      ],
+      "focusText": "Peer support",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Phoneline for anyone (including outside McGill) looking for someone to talk to",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://nightline.ssmu.ca/",
+      "notes": "",
+      "sourceSheet": "National FR CA Resources",
+      "tags": [
+        "free",
+        "national",
+        "peer-support",
+        "phone",
+        "regional",
+        "student",
+        "youth"
+      ]
+    },
+    {
+      "id": "national-fr-ca-resources-10-ligne-d-coute-et-de-r-f-rence-provinciale-pour-les-victimes-d-agression-caract-re-sexuel-leurs-proches-ou-les-professionnels-de-la-sant",
+      "name": "Ligne d'écoute et de référence provinciale pour les victimes d'agression à caractère sexuel, leurs proches ou les professionnels de la santé",
+      "region": "National - French",
+      "service": "",
+      "focus": [
+        "Sexual violence"
+      ],
+      "focusText": "Sexual violence",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "For survivors of sexual violence and closed ones",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://santemontreal.qc.ca/population/services/aide-aux-victimes-dagression-sexuelle/",
+      "notes": "",
+      "sourceSheet": "National FR CA Resources",
+      "tags": [
+        "free",
+        "national",
+        "regional",
+        "sexual-violence"
+      ]
+    },
+    {
+      "id": "national-fr-ca-resources-11-aneb",
+      "name": "ANEB",
+      "region": "National - French",
+      "service": "",
+      "focus": [
+        "Eating disorders"
+      ],
+      "focusText": "Eating disorders",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Phoneline, support groups for people with eating disorders",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://anebquebec.com/en",
+      "notes": "",
+      "sourceSheet": "National FR CA Resources",
+      "tags": [
+        "eating-disorders",
+        "free",
+        "national",
+        "peer-support",
+        "phone",
+        "regional"
+      ]
+    },
+    {
+      "id": "national-fr-ca-resources-12-vent-over-tea",
+      "name": "Vent over tea",
+      "region": "National - French",
+      "service": "",
+      "focus": [
+        "Peer support"
+      ],
+      "focusText": "Peer support",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Sessions in a café with an active listener",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://ventovertea.com/",
+      "notes": "",
+      "sourceSheet": "National FR CA Resources",
+      "tags": [
+        "free",
+        "national",
+        "peer-support",
+        "regional"
+      ]
+    },
+    {
+      "id": "national-fr-ca-resources-13-p10",
+      "name": "P10",
+      "region": "National - French",
+      "service": "",
+      "focus": [
+        "LGBTQ2"
+      ],
+      "focusText": "LGBTQ2+",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "P10 is a meeting place and advocate for lesbian, gay, bisexual, intersex, queer, trans, two-spirit, and questioning youth in Montréal, QC that provides a wide range of resources and free services for youth.",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://p10.qc.ca/",
+      "notes": "",
+      "sourceSheet": "National FR CA Resources",
+      "tags": [
+        "free",
+        "lgbtq",
+        "national",
+        "regional",
+        "youth"
+      ]
+    },
+    {
+      "id": "national-fr-ca-resources-14-centre-de-pr-vention-du-suicide-de-qu-bec",
+      "name": "Centre de prévention du suicide de Québec",
+      "region": "National - French",
+      "service": "",
+      "focus": [
+        "Suicide"
+      ],
+      "focusText": "Suicide",
+      "mode": "",
+      "cost": "",
+      "age": "",
+      "languageHours": "",
+      "description": "",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://www.cpsquebec.ca/",
+      "notes": "",
+      "sourceSheet": "National FR CA Resources",
+      "tags": [
+        "crisis",
+        "national",
+        "regional"
+      ]
+    },
+    {
+      "id": "national-fr-ca-resources-15-jeunesse-j-coute",
+      "name": "Jeunesse J’écoute",
+      "region": "National - French",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Jeunesse J’écoute is a resource that provides wellness support in multiple languages.\n\nJeunesse J’écoute also provides a number or resources covering a variety of mental health topics.",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://jeunessejecoute.ca/",
+      "notes": "",
+      "sourceSheet": "National FR CA Resources",
+      "tags": [
+        "counselling",
+        "free",
+        "national",
+        "regional"
+      ]
+    },
+    {
+      "id": "national-fr-ca-resources-16-ami-qu-bec",
+      "name": "AMI-Québec",
+      "region": "National - French",
+      "service": "",
+      "focus": [
+        "Counselling",
+        "Support"
+      ],
+      "focusText": "Counselling and Support",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Counselling can be an essential part of coping with and recovering from a mental illness, both for the person living with a mental illness and for their loved ones.\n\nAMI-Quebec offers free counselling for caregivers (families and friends of someone living with mental illness). Please click HERE for more information.\n\nPlease note: we have support groups for people living with mental health problems and illnesses but we do not offer counselling services for them. Contact the organizations below for counselling for individuals suffering from mental health issues, including art therapy, and counselling for family members. Most offer free services or charge on a sliding scale.",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://amiquebec.org/sos/",
+      "notes": "",
+      "sourceSheet": "National FR CA Resources",
+      "tags": [
+        "counselling",
+        "free",
+        "low-cost",
+        "national",
+        "peer-support",
+        "regional"
+      ]
+    },
+    {
+      "id": "national-fr-ca-resources-17-9-8-8-ligne-d-aide-en-cas-de-crise-de-suicide",
+      "name": "9-8-8 : Ligne d'aide en cas de crise de suicide",
+      "region": "National - French",
+      "service": "",
+      "focus": [
+        "Suicide"
+      ],
+      "focusText": "Suicide",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "9-8-8 is here to provide moments of connection that create hope, support recovery and save lives. We help people connect to their strengths and find new ways to cope, live and thrive. Our vision is a Canada where suicide is prevented because everyone can access help when they need it the most.",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://988.ca/fr/a-propos-de-nous",
+      "notes": "",
+      "sourceSheet": "National FR CA Resources",
+      "tags": [
+        "crisis",
+        "free",
+        "national",
+        "regional"
+      ]
+    },
+    {
+      "id": "national-fr-ca-resources-18-ligne-d-coute-d-espoir-pour-le-mieux-tre",
+      "name": "Ligne d'écoute d'espoir pour le mieux-être",
+      "region": "National - French",
+      "service": "",
+      "focus": [
+        "General for Indigenous peoples"
+      ],
+      "focusText": "General for Indigenous peoples",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Accessible en tout temps par les Premières Nations, les Inuits et les Métis désirant obtenir du soutien émotionnel, des services d'intervention en cas de crise ou de l'aiguillage vers les services communautaires.\n\nLe soutien est offert en anglais et en français et, sur demande, en cri, en ojibway et en inuktitut.\n--\nAccessible 24/7 to First Nations, Inuit and Métis people seeking emotional support, crisis intervention or referral to community services.\n\nSupport is available in English and French and, upon request, in Cree, Ojibway and Inuktitut.",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://www.espoirpourlemieuxetre.ca/",
+      "notes": "",
+      "sourceSheet": "National FR CA Resources",
+      "tags": [
+        "crisis",
+        "english",
+        "free",
+        "french",
+        "indigenous",
+        "national",
+        "peer-support",
+        "regional"
+      ]
+    },
+    {
+      "id": "national-fr-ca-resources-20-211-0",
+      "name": "211.0",
+      "region": "National - French",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "211 provides a list of organizations in Quebec that offer free, anonymous and confidential telephone services for individuals to share their psychological situtation with another person to break the isolation.\n\n211 offer lines that are general, specified lines (youth, LGBTQ+, seniors, etc) or specific subjet lines (mental health, bereavement, addictions, etc).",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://www.211qc.ca/en/psychosocial-support/helplines-talklines",
+      "notes": "",
+      "sourceSheet": "National FR CA Resources",
+      "tags": [
+        "addictions",
+        "counselling",
+        "free",
+        "lgbtq",
+        "national",
+        "phone",
+        "regional",
+        "youth"
+      ]
+    },
+    {
+      "id": "yk-resources-3-byte",
+      "name": "BYTE",
+      "region": "Yukon",
+      "service": "General (peer support, workshops, conferences, events)",
+      "focus": [
+        "Youth in Canada's North"
+      ],
+      "focusText": "Youth in Canada's North",
+      "mode": "Virtual + In-person",
+      "cost": "Varies (depending on the workshop)",
+      "age": "18-35",
+      "languageHours": "N/A",
+      "description": "BYTE is a “by youth, for youth” organization that focuses on empowering and promoting youth throughout the Yukon and Canada’s north. Our facilitation team travels to communities throughout the Yukon and to some areas of Northern BC and NWT to deliver innovative and relevant workshops to northern youth.",
+      "contact": "General Inquiries: info@yukonyouth.com or (867) 667-7975",
+      "serviceArea": "",
+      "website": "https://www.yukonyouth.com/",
+      "notes": "",
+      "sourceSheet": "YK Resources",
+      "tags": [
+        "in-person",
+        "north",
+        "peer-support",
+        "phone",
+        "regional",
+        "virtual",
+        "youth"
+      ]
+    },
+    {
+      "id": "yk-resources-4-cmha-yukon-reach-out-support-line",
+      "name": "CMHA Yukon (Reach Out Support Line)",
+      "region": "Yukon",
+      "service": "Crisis + peer support",
+      "focus": [
+        "General",
+        "but emphasis on individuals in Yukon"
+      ],
+      "focusText": "General, but emphasis on individuals in Yukon",
+      "mode": "Virtual",
+      "cost": "No cost",
+      "age": "All",
+      "languageHours": "English (24/7)",
+      "description": "The Reach Out Support Line (ROSL) is a free, volunteer-based, confidential and non-judgemental service. It is here to support individuals who are in crisis and need to talk to someone about their distress or trauma. ROSL operates 24 hours a day, seven days a week with trained volunteers who will listen, support and help callers find options, no matter how big or small the issue. Call the toll free number 1-844-533-3030 when you feel the need to talk to someone.",
+      "contact": "Call: 1-844-533-3030 (24/7)                                                General Inquiries: admin@yukon.cmha.ca or (867) 668-6429",
+      "serviceArea": "",
+      "website": "https://yukon.cmha.ca/mental-health/find-help-now/reach-out-support-line/",
+      "notes": "",
+      "sourceSheet": "YK Resources",
+      "tags": [
+        "crisis",
+        "english",
+        "free",
+        "north",
+        "peer-support",
+        "phone",
+        "regional",
+        "virtual"
+      ]
+    },
+    {
+      "id": "nwt-resources-3-wayc-western-arctic-youth-collective",
+      "name": "WAYC (Western Arctic Youth Collective)",
+      "region": "Northwest Territories",
+      "service": "Peer Support",
+      "focus": [
+        "Peer support for Indigenous Youth"
+      ],
+      "focusText": "Peer support for Indigenous Youth",
+      "mode": "Virtual + In-person",
+      "cost": "Unknown",
+      "age": "18-35",
+      "languageHours": "Primarily English",
+      "description": "WAYC strives to create opportunities to prepare and support ongoing development to improve the lives of youth ages 18-35 years old. The purpose of this collective is to empower youth to be changemakers by providing a platform of youth-led collaborative initiatives and partnerships in their communities.",
+      "contact": "Instagram/Facebook: @waycwayc",
+      "serviceArea": "",
+      "website": "https://www.facebook.com/waycwaycwayc/",
+      "notes": "",
+      "sourceSheet": "NWT Resources",
+      "tags": [
+        "english",
+        "in-person",
+        "indigenous",
+        "north",
+        "peer-support",
+        "regional",
+        "virtual",
+        "youth"
+      ]
+    },
+    {
+      "id": "nwt-resources-4-nwt-helpline-811",
+      "name": "NWT Helpline (811)",
+      "region": "Northwest Territories",
+      "service": "Crisis",
+      "focus": [
+        "Crisis"
+      ],
+      "focusText": "Crisis",
+      "mode": "Virtual",
+      "cost": "No cost",
+      "age": "Any age",
+      "languageHours": "English (24/7); French (24/7)",
+      "description": "When you call 811, press 1 to speak with a nurse from the Mental Health and Wellness Support line. These nurses are trained to help with mental health, wellness, and addiction recovery concerns. You can also call 811 if you have questions or concerns about someone you care about.",
+      "contact": "Call: 811 or 1-844-259-1793",
+      "serviceArea": "",
+      "website": "https://www.hss.gov.nt.ca/en/services/811",
+      "notes": "",
+      "sourceSheet": "NWT Resources",
+      "tags": [
+        "addictions",
+        "adult",
+        "counselling",
+        "crisis",
+        "english",
+        "free",
+        "french",
+        "north",
+        "phone",
+        "regional",
+        "virtual"
+      ]
+    },
+    {
+      "id": "nvt-resources-3-kamatsiaqut-nunavut-helpline",
+      "name": "Kamatsiaqut Nunavut Helpline",
+      "region": "Nunavut",
+      "service": "Crisis + Peer Support",
+      "focus": [
+        "Individuals from Nunavut",
+        "surrounding areas"
+      ],
+      "focusText": "Individuals from Nunavut + surrounding areas",
+      "mode": "Virtual",
+      "cost": "No cost",
+      "age": "Any age",
+      "languageHours": "English (24/7)",
+      "description": "Free, anonymous, confidential support by trained volunteers that is available 24/7, 7 days a week.",
+      "contact": "Call: 867-979-3333 (local Nunavut) or 1-800-265-3333 (outside Iqaluit + residents of Nunavumiut)",
+      "serviceArea": "",
+      "website": "http://nunavuthelpline.ca/",
+      "notes": "",
+      "sourceSheet": "NVT Resources",
+      "tags": [
+        "adult",
+        "crisis",
+        "english",
+        "free",
+        "north",
+        "peer-support",
+        "phone",
+        "regional",
+        "virtual"
+      ]
+    },
+    {
+      "id": "bc-resources-3-foundry",
+      "name": "Foundry",
+      "region": "British Columbia",
+      "service": "Youth Wellness",
+      "focus": [],
+      "focusText": "",
+      "mode": "",
+      "cost": "",
+      "age": "",
+      "languageHours": "",
+      "description": "",
+      "contact": "",
+      "serviceArea": "",
+      "website": "",
+      "notes": "",
+      "sourceSheet": "BC Resources",
+      "tags": [
+        "british-columbia",
+        "regional",
+        "youth"
+      ]
+    },
+    {
+      "id": "bc-resources-4-foundry",
+      "name": "Foundry",
+      "region": "British Columbia",
+      "service": "General",
+      "focus": [],
+      "focusText": "",
+      "mode": "https://foundrybc.ca/",
+      "cost": "",
+      "age": "",
+      "languageHours": "",
+      "description": "",
+      "contact": "Foundry offers young people ages 12-24 health and wellness resources, services and supports – online and through integrated service centres in communities across BC.",
+      "serviceArea": "",
+      "website": "",
+      "notes": "",
+      "sourceSheet": "BC Resources",
+      "tags": [
+        "british-columbia",
+        "regional"
+      ]
+    },
+    {
+      "id": "bc-resources-5-family-smart",
+      "name": "Family Smart",
+      "region": "British Columbia",
+      "service": "General",
+      "focus": [],
+      "focusText": "",
+      "mode": "https://familysmart.ca/",
+      "cost": "",
+      "age": "",
+      "languageHours": "",
+      "description": "",
+      "contact": "Family Smart provides resources on parent-peer support, child and youth mental health, adults supporting youth mental health.\n\nFamily Smart also hosts virtual evetns covering a variety of child and youth metnal health topics, and provides trainings and workshops for adults supporting their child or youth who have had a psychiatric unit or ER visit due to their mental health.",
+      "serviceArea": "",
+      "website": "",
+      "notes": "",
+      "sourceSheet": "BC Resources",
+      "tags": [
+        "british-columbia",
+        "regional"
+      ]
+    },
+    {
+      "id": "bc-resources-6-qmunity",
+      "name": "Qmunity",
+      "region": "British Columbia",
+      "service": "LGBTQ2+",
+      "focus": [],
+      "focusText": "",
+      "mode": "https://qmunity.ca/",
+      "cost": "",
+      "age": "",
+      "languageHours": "",
+      "description": "",
+      "contact": "Qmunity is a non-profit organization based in Vancouver, BC that works to improve queer, trans, and Two-Spirit lives. Qmunity provides a safe(r) space for LGBTQ2SAI+ people and their allies to fully self-express themselves while feeling welcome and included. \n\nQmunity aims to improve queer, trans, and Two-Spirit lives through support services, connection and leadership.",
+      "serviceArea": "",
+      "website": "",
+      "notes": "",
+      "sourceSheet": "BC Resources",
+      "tags": [
+        "british-columbia",
+        "lgbtq",
+        "regional"
+      ]
+    },
+    {
+      "id": "bc-resources-7-first-nations-health-authority",
+      "name": "First Nations Health Authority",
+      "region": "British Columbia",
+      "service": "Indigenous Youth",
+      "focus": [],
+      "focusText": "",
+      "mode": "https://www.fnha.ca/",
+      "cost": "",
+      "age": "",
+      "languageHours": "",
+      "description": "",
+      "contact": "​The First Nations Health Authority​ is a health service provider for First Nations in Canada.",
+      "serviceArea": "",
+      "website": "",
+      "notes": "",
+      "sourceSheet": "BC Resources",
+      "tags": [
+        "british-columbia",
+        "indigenous",
+        "regional",
+        "youth"
+      ]
+    },
+    {
+      "id": "bc-resources-8-heads-up-guys",
+      "name": "Heads Up Guys",
+      "region": "British Columbia",
+      "service": "Men's Mental Health",
+      "focus": [],
+      "focusText": "",
+      "mode": "https://headsupguys.org/",
+      "cost": "",
+      "age": "",
+      "languageHours": "",
+      "description": "",
+      "contact": "Heads Up Guys is an online, anonymous resource specifically designed for men and their families, to prevent the continued erosion of men’s mental health and deaths by suicide.\n\nHeads Up Guys aim to improve mental health literacy among men, reduce stigma, equip men with strategies for effective self-management, and support their uptake of mental health services.",
+      "serviceArea": "",
+      "website": "",
+      "notes": "",
+      "sourceSheet": "BC Resources",
+      "tags": [
+        "british-columbia",
+        "counselling",
+        "regional"
+      ]
+    },
+    {
+      "id": "bc-resources-9-kelty-mental-health",
+      "name": "Kelty Mental Health",
+      "region": "British Columbia",
+      "service": "General",
+      "focus": [],
+      "focusText": "",
+      "mode": "https://keltymentalhealth.ca/",
+      "cost": "",
+      "age": "",
+      "languageHours": "",
+      "description": "",
+      "contact": "Kelty Mental Health provides resources for navigating the mental health system, connecting youth with peer support, and how to access resources and tools to support youth wellbeing.",
+      "serviceArea": "",
+      "website": "",
+      "notes": "",
+      "sourceSheet": "BC Resources",
+      "tags": [
+        "british-columbia",
+        "counselling",
+        "regional"
+      ]
+    },
+    {
+      "id": "bc-resources-10-blue-wave",
+      "name": "Blue Wave",
+      "region": "British Columbia",
+      "service": "General",
+      "focus": [],
+      "focusText": "",
+      "mode": "https://cmha.bc.ca/programs-services/blue-wave/",
+      "cost": "",
+      "age": "",
+      "languageHours": "",
+      "description": "",
+      "contact": "Blue Wave is a youth mental health program that provides a fun and interactive course that covers building problem-solving skills, dealing with anger, anxiety management tools, self-esteem and healthy thinking and social support. Additonally, Blue Wave also offers a post-secondary bursary program to youth under the age of 20 in BC who have expereienced a mental health or substancee use challenge.",
+      "serviceArea": "",
+      "website": "",
+      "notes": "",
+      "sourceSheet": "BC Resources",
+      "tags": [
+        "british-columbia",
+        "regional"
+      ]
+    },
+    {
+      "id": "bc-resources-11-child-and-youth-mental-health-cymh",
+      "name": "Child and Youth Mental Health (CYMH)",
+      "region": "British Columbia",
+      "service": "Mental Health Assessment and Treatment",
+      "focus": [],
+      "focusText": "",
+      "mode": "https://www2.gov.bc.ca/gov/content/health/managing-your-health/mental-health-substance-use/child-teen-mental-health",
+      "cost": "",
+      "age": "",
+      "languageHours": "",
+      "description": "",
+      "contact": "CYMH is a community based mental health service for youth and families that aims to support youth who experience mental health related issues by providing in house clinical services and resources to other organizations and sources of support.",
+      "serviceArea": "",
+      "website": "",
+      "notes": "",
+      "sourceSheet": "BC Resources",
+      "tags": [
+        "british-columbia",
+        "counselling",
+        "regional",
+        "youth"
+      ]
+    },
+    {
+      "id": "bc-resources-13-heretohelp",
+      "name": "HeretoHelp",
+      "region": "British Columbia",
+      "service": "General",
+      "focus": [],
+      "focusText": "",
+      "mode": "https://www.heretohelp.bc.ca/",
+      "cost": "",
+      "age": "",
+      "languageHours": "",
+      "description": "",
+      "contact": "HeretoHelp is a Government Program that provides access to quality information on mental health, mental illness, and substance use problems.",
+      "serviceArea": "",
+      "website": "",
+      "notes": "",
+      "sourceSheet": "BC Resources",
+      "tags": [
+        "british-columbia",
+        "regional"
+      ]
+    },
+    {
+      "id": "bc-resources-14-youth-space",
+      "name": "Youth Space",
+      "region": "British Columbia",
+      "service": "Crisis",
+      "focus": [
+        "No cost"
+      ],
+      "focusText": "No cost",
+      "mode": "https://youthspace.ca/",
+      "cost": "",
+      "age": "",
+      "languageHours": "",
+      "description": "",
+      "contact": "Youth Space is an online, non-judgemental, confidential and annonymous crisis and emotional support chat service that is available from 6pm - midnight PST, 365 days a year.",
+      "serviceArea": "",
+      "website": "",
+      "notes": "",
+      "sourceSheet": "BC Resources",
+      "tags": [
+        "british-columbia",
+        "crisis",
+        "free",
+        "regional",
+        "youth"
+      ]
+    },
+    {
+      "id": "bc-resources-15-youth-in-bc",
+      "name": "Youth in BC",
+      "region": "British Columbia",
+      "service": "Crisis",
+      "focus": [
+        "No cost"
+      ],
+      "focusText": "No cost",
+      "mode": "https://youthinbc.com/",
+      "cost": "",
+      "age": "",
+      "languageHours": "",
+      "description": "",
+      "contact": "Youth in BC is a online crisis service open from noon to 1am in BC and Yukon.",
+      "serviceArea": "",
+      "website": "",
+      "notes": "",
+      "sourceSheet": "BC Resources",
+      "tags": [
+        "british-columbia",
+        "crisis",
+        "free",
+        "regional",
+        "youth"
+      ]
+    },
+    {
+      "id": "bc-resources-16-anxiety-canada",
+      "name": "Anxiety Canada",
+      "region": "British Columbia",
+      "service": "General",
+      "focus": [
+        "No cost"
+      ],
+      "focusText": "No cost",
+      "mode": "https://www.anxietycanada.com/",
+      "cost": "",
+      "age": "",
+      "languageHours": "",
+      "description": "",
+      "contact": "Anxiety Canada is registered charity and non-profit organization that raises awareness about anxiety and access to support for proven resources and treatment. They offer free, online self-help, and evidence-based tools to help manage anxiety.",
+      "serviceArea": "",
+      "website": "",
+      "notes": "",
+      "sourceSheet": "BC Resources",
+      "tags": [
+        "british-columbia",
+        "free",
+        "regional"
+      ]
+    },
+    {
+      "id": "bc-resources-17-crisis-centre",
+      "name": "Crisis Centre",
+      "region": "British Columbia",
+      "service": "Crisis",
+      "focus": [
+        "No cost"
+      ],
+      "focusText": "No cost",
+      "mode": "https://crisiscentre.bc.ca/",
+      "cost": "",
+      "age": "",
+      "languageHours": "",
+      "description": "",
+      "contact": "Crisis Centre provides barrier-free, non-judgemental, and confidental support through their 24/7 phone lines and online services.",
+      "serviceArea": "",
+      "website": "",
+      "notes": "",
+      "sourceSheet": "BC Resources",
+      "tags": [
+        "british-columbia",
+        "crisis",
+        "free",
+        "regional"
+      ]
+    },
+    {
+      "id": "bc-resources-18-mindmap",
+      "name": "Mindmap",
+      "region": "British Columbia",
+      "service": "Counselling",
+      "focus": [
+        "Variable"
+      ],
+      "focusText": "Variable",
+      "mode": "https://www.mindmapbc.ca/",
+      "cost": "",
+      "age": "",
+      "languageHours": "",
+      "description": "",
+      "contact": "MindMap provides a database of outpatient mental health services including professional counselling, peer counselling, support groups, and others. MindMap also provides services that are affirming of 2S/LGBTQ+* (Two-Spirit, as well as lesbian, gay, bisexual, trans, queer, and other gender- and sexually-diverse) people.\n\nMost resources in the database are free, low-cost, or on a sliding scale, and are self-referral services—meaning you do not need to see a doctor before accessing the service.",
+      "serviceArea": "",
+      "website": "",
+      "notes": "",
+      "sourceSheet": "BC Resources",
+      "tags": [
+        "british-columbia",
+        "counselling",
+        "regional"
+      ]
+    },
+    {
+      "id": "ab-resources-3-alberta-indigenous-care-clinic",
+      "name": "Alberta Indigenous Care Clinic",
+      "region": "Alberta",
+      "service": "General Health Care",
+      "focus": [
+        "Indigenous Youth"
+      ],
+      "focusText": "Indigenous Youth",
+      "mode": "",
+      "cost": "",
+      "age": "",
+      "languageHours": "",
+      "description": "First Nations, Inuit and Métis patients and their caregivers can receive consultations, usually within 24 hours, by phone or through their computer with Alberta-based physicians experienced in delivering culturally-safe health care and wellness support.",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://aivcc.ca/?fbclid=IwAR3dBrgQHt0xf1FWE_esrXzB1Ksm0D3HnnYt-dGnN026smjFYteJ6ZpTUkY",
+      "notes": "",
+      "sourceSheet": "AB Resources",
+      "tags": [
+        "alberta",
+        "in-person",
+        "indigenous",
+        "phone",
+        "regional",
+        "virtual",
+        "youth"
+      ]
+    },
+    {
+      "id": "ab-resources-4-alberta-health-services-togetherall",
+      "name": "Alberta Health Services - Togetherall",
+      "region": "Alberta",
+      "service": "Online Peer-to-Peer Mental Health Community",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Togetherall is a clinically moderated, online peer-to-peer mental health community that empowers individuals to anonymously seek and provide support 24/7. Togetherall is free to all Albertans aged 16+, register using your Alberta postal code.",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://www.albertahealthservices.ca/amh/Page17137.aspx",
+      "notes": "",
+      "sourceSheet": "AB Resources",
+      "tags": [
+        "alberta",
+        "counselling",
+        "free",
+        "in-person",
+        "peer-support",
+        "regional",
+        "virtual"
+      ]
+    },
+    {
+      "id": "ab-resources-5-kickstand-connect",
+      "name": "Kickstand connect",
+      "region": "Alberta",
+      "service": "Virtual Walk in Clinic",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Free virtual mental health and substance use counselling exclusive to Alberta Youth ages 12-25. Also has workshops on topics like canabis use, relationship violence, ED and resume writing.",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://mykickstand.ca/connect",
+      "notes": "",
+      "sourceSheet": "AB Resources",
+      "tags": [
+        "addictions",
+        "alberta",
+        "counselling",
+        "free",
+        "in-person",
+        "regional",
+        "virtual",
+        "youth"
+      ]
+    },
+    {
+      "id": "ab-resources-6-child-adolescent-and-family-mental-health-casa",
+      "name": "Child, Adolescent, and Family Mental Health (CASA)",
+      "region": "Alberta",
+      "service": "Children + Youth",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "",
+      "age": "",
+      "languageHours": "",
+      "description": "Children + Youth offers accessible, effective mental health services to children and families from the Edmonton Region and Central and Northern Alberta.\n\nChildren + Youth also works to promote knowledge and skill in the field of children’s mental health.",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://www.casaservices.org/all-about-casa",
+      "notes": "All ages, youth from 4-18",
+      "sourceSheet": "AB Resources",
+      "tags": [
+        "adult",
+        "alberta",
+        "counselling",
+        "regional",
+        "youth"
+      ]
+    },
+    {
+      "id": "ab-resources-7-the-alex",
+      "name": "The Alex",
+      "region": "Alberta",
+      "service": "Community Programming - The Alex",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "",
+      "age": "",
+      "languageHours": "",
+      "description": "The Alex offers a range of programs that deal with mental health, peer support, social connection, addiction, LGBTQ2S+, etc. \n\nThe Alex's programs are very community-based and are accessible to youth who may find it a struggle to access health care supports. \n\nTheir programs are a safe space for youth 12-24 to get health and social support from health care professionals (mental health support 16+). \n\nThe Alex Street Team provides street outreach across Calgary for mental health/addiction support, peer supports, treatment plannings, housing, etc.",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://www.thealex.ca/about/",
+      "notes": "",
+      "sourceSheet": "AB Resources",
+      "tags": [
+        "addictions",
+        "alberta",
+        "counselling",
+        "lgbtq",
+        "peer-support",
+        "regional",
+        "youth"
+      ]
+    },
+    {
+      "id": "ab-resources-8-skipping-stone",
+      "name": "Skipping Stone",
+      "region": "Alberta",
+      "service": "Community Programming - Skipping Stone",
+      "focus": [
+        "Counselling",
+        "Support"
+      ],
+      "focusText": "Counselling and Support",
+      "mode": "",
+      "cost": "",
+      "age": "",
+      "languageHours": "",
+      "description": "Through a client-centred, collaborative approach, we empower individuals to achieve their goals by assembling a support team tailored specifically to them. These teams might include community team members, peer mentors and coaches, social workers, mental health and health care professionals, or more.",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://www.skippingstone.ca/",
+      "notes": "",
+      "sourceSheet": "AB Resources",
+      "tags": [
+        "alberta",
+        "counselling",
+        "peer-support",
+        "regional",
+        "self-guided",
+        "virtual"
+      ]
+    },
+    {
+      "id": "ab-resources-9-alberta-mental-health-help-line",
+      "name": "Alberta Mental Health Help Line",
+      "region": "Alberta",
+      "service": "Crisis",
+      "focus": [
+        "Crisis"
+      ],
+      "focusText": "Crisis",
+      "mode": "",
+      "cost": "",
+      "age": "",
+      "languageHours": "",
+      "description": "The Mental Help Line is a 24 hour, 7 day a week confidential service that provides support, information and referrals to Albertans experiencing mental health concerns.\n\nThe line is staffed by a multidisciplinary team comprised of nurses, psychiatric nurses, social workers, occupational therapists, and psychologists.\n\nThe service provides a confidential, anonymous service on information about mental health programs and services.",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx?id=6810&serviceAtFacilityID=1047134",
+      "notes": "1 (877) 303-2642",
+      "sourceSheet": "AB Resources",
+      "tags": [
+        "alberta",
+        "counselling",
+        "crisis",
+        "regional"
+      ]
+    },
+    {
+      "id": "ab-resources-11-jack-org-resource-hub-alberta-covid-response",
+      "name": "Jack.org Resource Hub - Alberta (COVID Response)",
+      "region": "Alberta",
+      "service": "Resource Hub - Jack.org",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "A resource hub developed by the Government of Alberta, Jack.org, and Kids Help Phone (education, tools, support, and reliable information)",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://jack.org/resources/covidAB",
+      "notes": "",
+      "sourceSheet": "AB Resources",
+      "tags": [
+        "alberta",
+        "directory",
+        "free",
+        "phone",
+        "regional"
+      ]
+    },
+    {
+      "id": "ab-resources-12-211-alberta",
+      "name": "211 Alberta",
+      "region": "Alberta",
+      "service": "Service Directory - 211",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "211 is a free, confidential, 24/7 service that connects individuals to government, health, and social services that are available across the province. The service helps individuals who are looking to find the right community or social resource but don’t know where to start.",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://ab.211.ca/",
+      "notes": "",
+      "sourceSheet": "AB Resources",
+      "tags": [
+        "alberta",
+        "directory",
+        "free",
+        "peer-support",
+        "regional"
+      ]
+    },
+    {
+      "id": "ab-resources-13-alberta-health-services",
+      "name": "Alberta Health Services",
+      "region": "Alberta",
+      "service": "Resource Hub - Alberta Health",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "\"A compilation of important phone/text numbers, COVID-19 online resources, self-help resources (mental health and addictions, grief, stress), and other supports.\"",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://www.albertahealthservices.ca/amh/Page16759.aspx",
+      "notes": "",
+      "sourceSheet": "AB Resources",
+      "tags": [
+        "addictions",
+        "alberta",
+        "counselling",
+        "directory",
+        "free",
+        "phone",
+        "regional",
+        "self-guided",
+        "text-chat",
+        "virtual"
+      ]
+    },
+    {
+      "id": "ab-resources-14-my-kickstand",
+      "name": "My Kickstand",
+      "region": "Alberta",
+      "service": "Resource Hub - Kickstand",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "",
+      "age": "",
+      "languageHours": "",
+      "description": "Online hub coordinating and connecting a variety of service providers in a single location.",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://mykickstand.ca/",
+      "notes": "",
+      "sourceSheet": "AB Resources",
+      "tags": [
+        "alberta",
+        "directory",
+        "regional",
+        "virtual"
+      ]
+    },
+    {
+      "id": "ab-resources-15-togetherall-cmha",
+      "name": "Togetherall CMHA",
+      "region": "Alberta",
+      "service": "CMHA Togetherall",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Free community to all 16+ Alberta residents. Monitored by clinicians it is a safe place to share how you are feeling and discuss mental health.\n\nPeer to peer mental health community.",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://alberta.cmha.ca/togetherall-virtual-mental-health/",
+      "notes": "",
+      "sourceSheet": "AB Resources",
+      "tags": [
+        "alberta",
+        "counselling",
+        "free",
+        "in-person",
+        "peer-support",
+        "regional"
+      ]
+    },
+    {
+      "id": "ab-resources-16-health-link-811-alberta-health-services",
+      "name": "Health Link 811 Alberta Health Services",
+      "region": "Alberta",
+      "service": "Health advice and information",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Number for Alberta residents to call to get health advice. Helps to determine the best care path for your situation. Talk to service providers in any situation (even crisis) for support on what to do!",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://www.albertahealthservices.ca/info/Page12630.aspxx",
+      "notes": "",
+      "sourceSheet": "AB Resources",
+      "tags": [
+        "alberta",
+        "crisis",
+        "free",
+        "phone",
+        "regional"
+      ]
+    },
+    {
+      "id": "sk-resources-3-the-caring-place",
+      "name": "The Caring Place",
+      "region": "Saskatchewan",
+      "service": "Therapy/Counselling",
+      "focus": [
+        "Counselling"
+      ],
+      "focusText": "Counselling",
+      "mode": "",
+      "cost": "Yes (PWYC)",
+      "age": "",
+      "languageHours": "",
+      "description": "Pay what you can counselling services, including virtual options.",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://www.thecaringplace.ca/",
+      "notes": "",
+      "sourceSheet": "SK Resources",
+      "tags": [
+        "counselling",
+        "low-cost",
+        "regional",
+        "saskatchewan",
+        "virtual"
+      ]
+    },
+    {
+      "id": "sk-resources-4-811-saskatchewan-health-line",
+      "name": "811 Saskatchewan Health Line",
+      "region": "Saskatchewan",
+      "service": "Support Telephone Line",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "Free",
+      "age": "",
+      "languageHours": "",
+      "description": "HealthLine 811 is a confidential, 24-hour health and mental health and addictions advice, education and support line available to the people of Saskatchewan. Staffed by experienced and specially trained Registered Nurses, Registered Psychiatric Nurses, and Registered Social Workers.\n\nServices are offered in English, with translation available in over 100 languages.   811",
+      "contact": "",
+      "serviceArea": "",
+      "website": "Saskatchewan Health Line",
+      "notes": "",
+      "sourceSheet": "SK Resources",
+      "tags": [
+        "addictions",
+        "counselling",
+        "english",
+        "free",
+        "lgbtq",
+        "phone",
+        "regional",
+        "saskatchewan"
+      ]
+    },
+    {
+      "id": "sk-resources-5-saskatoon-family-services",
+      "name": "Saskatoon Family Services",
+      "region": "Saskatchewan",
+      "service": "Therapy/Counselling",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "Yes",
+      "age": "",
+      "languageHours": "",
+      "description": "Counselling services and programs are available in person, over the phone, and through a secure video platform (Zoom). Fees for services are on a sliding scale based on family income. Some insurance providers may cover the cost of these services.",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://familyservice.sk.ca/",
+      "notes": "",
+      "sourceSheet": "SK Resources",
+      "tags": [
+        "counselling",
+        "in-person",
+        "low-cost",
+        "phone",
+        "regional",
+        "saskatchewan"
+      ]
+    },
+    {
+      "id": "sk-resources-6-youthspace",
+      "name": "YouthSpace",
+      "region": "Saskatchewan",
+      "service": "Crisis and Support Text Line",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Youthspace is an online crisis & emotional support anonymous chat service. Youth can connect through texting or instant messaging over the computer",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://www.youthspace.ca/",
+      "notes": "",
+      "sourceSheet": "SK Resources",
+      "tags": [
+        "crisis",
+        "free",
+        "regional",
+        "saskatchewan",
+        "text-chat",
+        "virtual",
+        "youth"
+      ]
+    },
+    {
+      "id": "sk-resources-7-counselling-connect-saskatchewan",
+      "name": "Counselling Connect Saskatchewan",
+      "region": "Saskatchewan",
+      "service": "Therapy/Counselling",
+      "focus": [
+        "Counselling"
+      ],
+      "focusText": "Counselling",
+      "mode": "",
+      "cost": "No cost to those residing in Saskatchewan",
+      "age": "",
+      "languageHours": "",
+      "description": "Family Service Saskatchewan’s Rapid Access Counselling Program is delivered through a partnership of member agencies in communities across Saskatchewan.  This service is funded by the Saskatchewan Health Authority.\n\nThey offer quick access to brief mental health services for individuals, couples and families. We can help with concerns such as anxiety, depression, addictions, suicidal ideation, stress, relationship conflict, separation and divorce, domestic violence and parenting. Our services are prioritized for individuals who do not have access to workplace benefits, who live on a fixed or low income, and who would otherwise most often experience long waits for publicly funded services.  \n\nServices are provided by professional counsellors who hold education in the counselling and mental health field and who are licensed with a professional regulatory body to provide this service.",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://www.counsellingconnectsask.ca/",
+      "notes": "",
+      "sourceSheet": "SK Resources",
+      "tags": [
+        "addictions",
+        "counselling",
+        "free",
+        "regional",
+        "saskatchewan"
+      ]
+    },
+    {
+      "id": "sk-resources-9-211-saskatchewan",
+      "name": "211 Saskatchewan",
+      "region": "Saskatchewan",
+      "service": "Service Directory",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "211 is a free, confidential, 24/7 service that connects individuals to government, health, and social services that are available across the province. The service helps individuals who are looking to find the right community or social resource but don’t know where to start.",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://sk.211.ca/",
+      "notes": "",
+      "sourceSheet": "SK Resources",
+      "tags": [
+        "directory",
+        "free",
+        "peer-support",
+        "regional",
+        "saskatchewan"
+      ]
+    },
+    {
+      "id": "sk-resources-10-accessing-health-care-services-facilities-in-saskatchewan",
+      "name": "Accessing Health Care Services & Facilities in Saskatchewan",
+      "region": "Saskatchewan",
+      "service": "Service Directory",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "",
+      "age": "",
+      "languageHours": "",
+      "description": "Directory for health care services and facilities within Saskatchewan",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://www.saskatchewan.ca/residents/health/accessing-health-care-services/health-care-facilities",
+      "notes": "",
+      "sourceSheet": "SK Resources",
+      "tags": [
+        "directory",
+        "regional",
+        "saskatchewan"
+      ]
+    },
+    {
+      "id": "sk-resources-11-saskatchewan-health-authority-first-nations-and-m-tis-health-programs-and-services",
+      "name": "Saskatchewan Health Authority: First Nations and Métis Health Programs and Services",
+      "region": "Saskatchewan",
+      "service": "Resource Hub",
+      "focus": [
+        "Indigenous Youth"
+      ],
+      "focusText": "Indigenous Youth",
+      "mode": "",
+      "cost": "",
+      "age": "",
+      "languageHours": "",
+      "description": "\"Programs and services geared to the needs of First Nations and Métis peoples.\"",
+      "contact": "",
+      "serviceArea": "",
+      "website": "http://www.rqhealth.ca/department/native-health/first-nations-and-metis-health-programs-and-services",
+      "notes": "",
+      "sourceSheet": "SK Resources",
+      "tags": [
+        "directory",
+        "indigenous",
+        "regional",
+        "saskatchewan",
+        "youth"
+      ]
+    },
+    {
+      "id": "sk-resources-12-embracing-life-saskatchewan-northern-saskatchewan",
+      "name": "Embracing Life Saskatchewan\n(Northern Saskatchewan)",
+      "region": "Saskatchewan",
+      "service": "Resource Hub",
+      "focus": [
+        "Supports"
+      ],
+      "focusText": "Supports",
+      "mode": "",
+      "cost": "",
+      "age": "",
+      "languageHours": "",
+      "description": "Information hub where youth can explore tools and resources around them to find the right supports for them",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://embracinglifesk.com/",
+      "notes": "",
+      "sourceSheet": "SK Resources",
+      "tags": [
+        "directory",
+        "regional",
+        "saskatchewan",
+        "youth"
+      ]
+    },
+    {
+      "id": "mb-resources-3-klinic-community-health",
+      "name": "Klinic Community Health",
+      "region": "Manitoba",
+      "service": "Community Health Support",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "",
+      "age": "",
+      "languageHours": "",
+      "description": "Klinic Community Health provides a full range of health related services from medical care to counselling and education. Klinic promotes health and quality of life for people of every age, background, ethnicity, gender identity, and socio-economic circumstance. Rooted in social justice values, they believe that everyone deserves quality care, support and respect and have service centres across the province.   Klinic also has a suicide and prevention support line which provides 24/7 crisis support and intervention:\nPhone: 204-786-8686 or toll-free: 1-866-322-3019",
+      "contact": "",
+      "serviceArea": "",
+      "website": "http://klinic.mb.ca/",
+      "notes": "",
+      "sourceSheet": "MB Resources",
+      "tags": [
+        "counselling",
+        "crisis",
+        "free",
+        "in-person",
+        "manitoba",
+        "peer-support",
+        "phone",
+        "regional"
+      ]
+    },
+    {
+      "id": "mb-resources-4-manitoba-farm-rural-northern-support",
+      "name": "Manitoba Farm, Rural & Northern Support",
+      "region": "Manitoba",
+      "service": "Community Health Support",
+      "focus": [
+        "Rural"
+      ],
+      "focusText": "Rural",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "We offer free, confidential and non-judgmental counselling for anyone who lives on a Manitoba farm, or in a rural or Northern community.",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://supportline.ca/",
+      "notes": "",
+      "sourceSheet": "MB Resources",
+      "tags": [
+        "counselling",
+        "free",
+        "manitoba",
+        "peer-support",
+        "regional"
+      ]
+    },
+    {
+      "id": "mb-resources-5-manitoba-m-tis-foundation-mmf-support-line",
+      "name": "Manitoba Métis Foundation (MMF) Support Line",
+      "region": "Manitoba",
+      "service": "Toll-Free Support Line",
+      "focus": [
+        "Indigenous Youth"
+      ],
+      "focusText": "Indigenous Youth",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "The Manitoba Métis Foundation Support Line is a toll-free support line available from 7am to 11pm daily.\n\n1-833-390-1041",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://www.mmf.mb.ca/",
+      "notes": "",
+      "sourceSheet": "MB Resources",
+      "tags": [
+        "free",
+        "indigenous",
+        "manitoba",
+        "regional",
+        "youth"
+      ]
+    },
+    {
+      "id": "mb-resources-6-first-nations-inuit-hope-for-wellness-help-line",
+      "name": "First Nations & Inuit Hope for Wellness Help Line",
+      "region": "Manitoba",
+      "service": "Toll-Free Support Line",
+      "focus": [
+        "Indigenous Youth"
+      ],
+      "focusText": "Indigenous Youth",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "This is a health information telephone line that provides culturally competent support 24/7. 1-855-242-3310",
+      "contact": "",
+      "serviceArea": "",
+      "website": "http://www.hopeforwellness.ca/",
+      "notes": "",
+      "sourceSheet": "MB Resources",
+      "tags": [
+        "free",
+        "indigenous",
+        "manitoba",
+        "phone",
+        "regional",
+        "youth"
+      ]
+    },
+    {
+      "id": "mb-resources-7-crisis-response-centre",
+      "name": "Crisis Response Centre",
+      "region": "Manitoba",
+      "service": "Community Health Support",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "",
+      "age": "",
+      "languageHours": "",
+      "description": "The Mental Health Crisis Response Centre in Winnipeg is a central point of access for adults experiencing a mental health crisis, accessible 24 hours a day, seven days a week within an atmosphere that promotes healing and recovery. **This particular resource is available to adults, so would be more geared toward to youth who are 18+.  204-940-1781",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://sharedhealthmb.ca/services/mental-health/crisis-response-centre/",
+      "notes": "",
+      "sourceSheet": "MB Resources",
+      "tags": [
+        "adult",
+        "counselling",
+        "crisis",
+        "manitoba",
+        "peer-support",
+        "regional",
+        "youth"
+      ]
+    },
+    {
+      "id": "mb-resources-8-the-link-formally-macdonald-youth-services",
+      "name": "The Link (formally MacDonald Youth Services)",
+      "region": "Manitoba",
+      "service": "Crisis Support",
+      "focus": [
+        "Crisis"
+      ],
+      "focusText": "Crisis",
+      "mode": "",
+      "cost": "",
+      "age": "",
+      "languageHours": "",
+      "description": "The Link offers a range The Link offers a range of free crisis supports to help stabilize youth 21 and under experiencing trauma, suicidal thoughts, & difficulty coping, while also ensuring emotional, physical & cultural safety & wellness for everyone in the home.\n24-hour Crisis Line: 204-949-4777 or toll-free: 1-888-383-2776",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://thelinkmb.ca/",
+      "notes": "",
+      "sourceSheet": "MB Resources",
+      "tags": [
+        "crisis",
+        "free",
+        "manitoba",
+        "regional",
+        "youth"
+      ]
+    },
+    {
+      "id": "mb-resources-9-norwest-co-op-youth-hub",
+      "name": "NorWest Co-op (Youth Hub)",
+      "region": "Manitoba",
+      "service": "Community Health Support",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "",
+      "age": "",
+      "languageHours": "",
+      "description": "Integrated service centre for youth aged 12-29 years of age, offering services in the areas of mental health, primary care, addictions, employment and recreational activities.",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://norwestcoop.ca/program_service/youth-hub/",
+      "notes": "",
+      "sourceSheet": "MB Resources",
+      "tags": [
+        "addictions",
+        "counselling",
+        "manitoba",
+        "peer-support",
+        "regional",
+        "youth"
+      ]
+    },
+    {
+      "id": "mb-resources-11-211-manitoba",
+      "name": "211 Manitoba",
+      "region": "Manitoba",
+      "service": "Service Directory",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "211 is a free, confidential, 24/7 service that connects individuals to government, health, and social services that are available across the province. The service helps individuals who are looking to find the right community or social resource but don’t know where to start.",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://mb.211.ca/",
+      "notes": "",
+      "sourceSheet": "MB Resources",
+      "tags": [
+        "directory",
+        "free",
+        "manitoba",
+        "peer-support",
+        "regional"
+      ]
+    },
+    {
+      "id": "mb-resources-12-mental-health-crisis-non-crisis-support",
+      "name": "Mental Health Crisis & Non-Crisis Support",
+      "region": "Manitoba",
+      "service": "Resource Hub",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "",
+      "age": "",
+      "languageHours": "",
+      "description": "Directory for crisis and non-crisis mental health support services within Manitoba",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://www.gov.mb.ca/health/mh/crisis.html",
+      "notes": "",
+      "sourceSheet": "MB Resources",
+      "tags": [
+        "counselling",
+        "crisis",
+        "directory",
+        "manitoba",
+        "regional"
+      ]
+    },
+    {
+      "id": "mb-resources-13-mental-health-wellness-resource-finder",
+      "name": "Mental Health & Wellness Resource Finder",
+      "region": "Manitoba",
+      "service": "Mental Health Support Directory",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "",
+      "age": "",
+      "languageHours": "",
+      "description": "The Mental Health and Wellness Resource Finder provides a number of mental health, wellness and addictions supports and resources for you and those you care about. Resources for youth and adolescents are highlighted in green.",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://sharedhealthmb.ca/health-providers/mental-health-and-addictions/mental-health-and-wellness-resource-finder/",
+      "notes": "",
+      "sourceSheet": "MB Resources",
+      "tags": [
+        "addictions",
+        "counselling",
+        "directory",
+        "manitoba",
+        "regional",
+        "youth"
+      ]
+    },
+    {
+      "id": "on-resources-3-toronto-distress-centres",
+      "name": "Toronto Distress Centres",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "Crisis"
+      ],
+      "focusText": "Crisis",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Distress Centres of Greater Toronto provides crisis support, suicide prevention and intervention, multilingual helplines, and more for individuals working through a wide variety of personal difficulties.",
+      "contact": "416 408-4357 or 408-HELP",
+      "serviceArea": "Greater Toronoto Area (GTA)",
+      "website": "https://www.dcogt.com/",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "crisis",
+        "free",
+        "ontario",
+        "phone",
+        "regional"
+      ]
+    },
+    {
+      "id": "on-resources-4-gerstein-centre",
+      "name": "Gerstein Centre",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "Crisis"
+      ],
+      "focusText": "Crisis",
+      "mode": "",
+      "cost": "",
+      "age": "",
+      "languageHours": "",
+      "description": "The Gerstien Centre provides a variety of crisis services including: 24/7 telephone support, an in-person mobile crisis team, community support referrals, substance use crisis management, follow-up services and access to short-term crisis beds.",
+      "contact": "416 929-5200",
+      "serviceArea": "Toronto",
+      "website": "https://gersteincentre.org/",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "addictions",
+        "crisis",
+        "in-person",
+        "ontario",
+        "peer-support",
+        "phone",
+        "regional"
+      ]
+    },
+    {
+      "id": "on-resources-5-spectra-helpline",
+      "name": "Spectra Helpline",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "Crisis"
+      ],
+      "focusText": "Crisis",
+      "mode": "",
+      "cost": "",
+      "age": "",
+      "languageHours": "",
+      "description": "Spectra Helpline is a crisis line that provides support for people who are in crisis or having suicidal thoughts, dealing with mental health challenges and are socially & psychologically isolated.",
+      "contact": "416 920-0497 or 905 459-7777",
+      "serviceArea": "Brampton/Mississauga",
+      "website": "https://www.facebook.com/SpectraHelpline/",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "counselling",
+        "crisis",
+        "ontario",
+        "phone",
+        "regional"
+      ]
+    },
+    {
+      "id": "on-resources-6-kids-help-phone",
+      "name": "Kids Help Phone",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Kids Help Phone is Canada’s 24/7 e-mental health service offering free, confidential support to young people in English and French.",
+      "contact": "1 800 668-6868",
+      "serviceArea": "Canada/ON",
+      "website": "https://kidshelpphone.ca/",
+      "notes": "EN/FR",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "counselling",
+        "english",
+        "free",
+        "french",
+        "national",
+        "ontario",
+        "phone",
+        "regional",
+        "youth"
+      ]
+    },
+    {
+      "id": "on-resources-7-good2talk",
+      "name": "Good2Talk",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Good2Talk provides 24/7 free, confidential support services for post-secondary students in Ontario and Nova Scotia.",
+      "contact": "1-866-925-5454",
+      "serviceArea": "ON/NS",
+      "website": "https://good2talk.ca/",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "atlantic-canada",
+        "free",
+        "ontario",
+        "phone",
+        "regional",
+        "student",
+        "youth"
+      ]
+    },
+    {
+      "id": "on-resources-8-victim-services-of-peel",
+      "name": "Victim Services of Peel",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "Crisis"
+      ],
+      "focusText": "Crisis",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Victim Services of Peel provides support for victims of domestic abuse and trauma through crisis intervention, immediate services post-violence, housing support services, and the South Asian Family Enrichment program to break cycles of family violence within the South Asian community.",
+      "contact": "(905) 568-1068",
+      "serviceArea": "Peel Region",
+      "website": "https://vspeel.org/services/crisis-intervention/",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "crisis",
+        "free",
+        "ontario",
+        "peer-support",
+        "phone",
+        "regional",
+        "south-asian"
+      ]
+    },
+    {
+      "id": "on-resources-9-family-navigation-project-sunnybrook",
+      "name": "Family Navigation Project (Sunnybrook)",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "The Family Navigation Project (FNP) at Sunnybrook Health Sciences Centre serves youth and families in the Greater Toronto Area (Durham, Halton, Peel, Toronto, York). FNP is a non-profit, philanthropically-funded program that provides help to youth, 13 to 26 years old experiencing mental health and/or addiction issues, and their families.\n\nFNP does not provide diagnosis, treatment, counselling or crisis services. Instead, our team of experts helps teens, young adults and/or their families navigate the system more easily, to find and gain access to resources, such as service providers and treatment centres.",
+      "contact": "",
+      "serviceArea": "GTA",
+      "website": "https://sunnybrook.ca/content/?page=family-navigation-project",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "addictions",
+        "adult",
+        "counselling",
+        "crisis",
+        "directory",
+        "free",
+        "ontario",
+        "regional",
+        "youth"
+      ]
+    },
+    {
+      "id": "on-resources-10-help-ahead",
+      "name": "Help Ahead",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Help Ahead is an intake phone line for the Toronto area that connects you to support varrying across multiple trusted community-based mental health agencies who have the expertise to meet diverse needs.",
+      "contact": "",
+      "serviceArea": "GTA",
+      "website": "https://helpahead.ca/professionals/how-it-works/",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "counselling",
+        "free",
+        "ontario",
+        "peer-support",
+        "phone",
+        "regional"
+      ]
+    },
+    {
+      "id": "on-resources-11-tdsb-culturally-responsive-relevant-resource-list",
+      "name": "TDSB - Culturally Responsive & Relevant Resource List",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "TDSB provides a list of culturally responsive and relevant resources that are availble in the GTA.",
+      "contact": "",
+      "serviceArea": "GTA",
+      "website": "https://docs.google.com/presentation/d/1E1rvK8htCICYXTDjR8p5u6XtrsHf-tmMEFlQVa4U-HQ/edit#slide=id.gf7c2dde4b9_0_476",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "free",
+        "ontario",
+        "regional"
+      ]
+    },
+    {
+      "id": "on-resources-12-youth-diversion",
+      "name": "Youth Diversion",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Providing prevention, intervention and educational services that divert youth from risk and support their ability to thrive",
+      "contact": "",
+      "serviceArea": "Kingston",
+      "website": "https://www.youthdiversion.org/about/",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "free",
+        "ontario",
+        "regional",
+        "youth"
+      ]
+    },
+    {
+      "id": "on-resources-13-sac-kingston",
+      "name": "SAC Kingston",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "Sexual Assault"
+      ],
+      "focusText": "Sexual Assault",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Sexual Assault Centre Kingston is a not-for-profit organization providing free, confidential, non-judgemental support for all survivors, 12+, of recent and/or historic sexual violence in Kingston, Frontenac, Lennox & Addington (KFL&A)",
+      "contact": "613-545-0762",
+      "serviceArea": "Kingston",
+      "website": "https://www.sackingston.com/our-mission-and-values",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "free",
+        "ontario",
+        "phone",
+        "regional",
+        "sexual-violence"
+      ]
+    },
+    {
+      "id": "on-resources-14-sac-quinte-district",
+      "name": "SAC Quinte District",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "Sexual Assault"
+      ],
+      "focusText": "Sexual Assault",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Through our counselling and support groups, Safe Place drop-in, and Paths of Courage Residential Healing Program, SACQD staff and volunteers reach out to survivors and their families.",
+      "contact": "Crisis line: 1-877-544-6424",
+      "serviceArea": "Belleville",
+      "website": "https://www.sacqd.com/",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "counselling",
+        "free",
+        "ontario",
+        "peer-support",
+        "phone",
+        "regional",
+        "sexual-violence"
+      ]
+    },
+    {
+      "id": "on-resources-15-addictions-and-mental-health-services-hastings-prince-edward",
+      "name": "Addictions and Mental Health Services - Hastings Prince Edward",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Addictions and Mental Health Services – Hastings Prince Edward is a community-based agency providing a range of client-centred services and supports throughout Hastings and Prince Edward Counties to individuals 16 and older. Services can be provided in the individual’s home environment, office setting or in the community.",
+      "contact": "crisis line: 613-969-7400, EXT. 2753",
+      "serviceArea": "Quinte",
+      "website": "https://amhs-hpe.ca/about/",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "addictions",
+        "counselling",
+        "free",
+        "ontario",
+        "peer-support",
+        "phone",
+        "regional"
+      ]
+    },
+    {
+      "id": "on-resources-16-children-s-mental-health-services-hastings-and-prince-edward-counties",
+      "name": "Children's Mental Health Services Hastings and Prince Edward Counties",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Community-based mental health services for children and youth having any one of a range of disorders including suicidal, eating disorders, depression, anxiety, affective disorder, mood and anxiety disorders as well as other disorders * provides assessment, counselling/treatment and case management and consultation",
+      "contact": "crisis line: 1-844-GO2 CMHS (462-2647)",
+      "serviceArea": "Belleville",
+      "website": "www.cmhsonline.ca",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "counselling",
+        "eating-disorders",
+        "free",
+        "ontario",
+        "peer-support",
+        "regional",
+        "youth"
+      ]
+    },
+    {
+      "id": "on-resources-17-cmha-thunder-bay-crisis-response-services",
+      "name": "CMHA Thunder Bay Crisis Response Services",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Crisis Response Services offers mobile crisis response, crisis support residence, and 24/7 telephone services to both youth and adults who are experiencing a mental health crisis.",
+      "contact": "807-346-8282",
+      "serviceArea": "Thunder Bay",
+      "website": "https://thunderbay.cmha.ca/programs-services/crisis-response-services/",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "adult",
+        "counselling",
+        "crisis",
+        "free",
+        "ontario",
+        "phone",
+        "regional",
+        "youth"
+      ]
+    },
+    {
+      "id": "on-resources-18-dilico-s-services",
+      "name": "Dilico’s services",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "Indigenous Youth"
+      ],
+      "focusText": "Indigenous Youth",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "The Walk-In Counselling Clinic provides welcoming and free counselling services to people seeking support for any mental health issue",
+      "contact": "(807) 624-5818",
+      "serviceArea": "Thunder Bay",
+      "website": "https://www.dilico.com/mental-health-addictions/walk-in-counselling-clinic/",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "counselling",
+        "free",
+        "in-person",
+        "indigenous",
+        "ontario",
+        "phone",
+        "regional",
+        "youth"
+      ]
+    },
+    {
+      "id": "on-resources-19-thunder-bay-counseling",
+      "name": "Thunder Bay Counseling",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "not-for-profit organization. Counselling, psychotherapy, education and support services are provided by professional counsellors to help people make positive changes in their personal, family or work lives.",
+      "contact": "(807) 684-1880",
+      "serviceArea": "Thunder Bay",
+      "website": "https://www.tbaycounselling.com/about/",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "counselling",
+        "free",
+        "ontario",
+        "phone",
+        "regional"
+      ]
+    },
+    {
+      "id": "on-resources-20-cody-s-house",
+      "name": "Cody's House",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "promote mental health and resiliency in youth, helping them and their families navigate service pathways to a happy and healthier life.",
+      "contact": "",
+      "serviceArea": "Barrie",
+      "website": "http://www.codyshouse.org/",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "counselling",
+        "free",
+        "ontario",
+        "regional",
+        "self-guided",
+        "virtual",
+        "youth"
+      ]
+    },
+    {
+      "id": "on-resources-21-barrie-native-friendship-centre-aboriginal-family-support-program",
+      "name": "Barrie Native Friendship Centre, Aboriginal Family\nSupport Program",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "Indigenous Youth"
+      ],
+      "focusText": "Indigenous Youth",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "The Wasa Nabin program provides 1:1 support and group activities to youth ages 13 to 18, offering tools and healthy activities to build their abilities in order to improve quality of life. Supports include: general social activities, youth-in-care, Streetwold, healthy eating & physical development, education, justice intervention, and violence prevention.",
+      "contact": "705-721-7689 x 243",
+      "serviceArea": "Barrie",
+      "website": "https://www.barrienfc.ca/programs/aboriginal-healthy-babies-healthy-children/",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "free",
+        "indigenous",
+        "ontario",
+        "phone",
+        "regional",
+        "youth"
+      ]
+    },
+    {
+      "id": "on-resources-22-ysb-24-7-crisis-line",
+      "name": "YSB 24/7 Crisis Line",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "The 24/7 Crisis Line & Chat services are for children and youth ages 18 and under who are experiencing a crisis, and for parents, guardians, caregivers, friends or service providers who are concerned about a young person in crisis.",
+      "contact": "613-260-2360",
+      "serviceArea": "Ottawa",
+      "website": "https://www.cheo.on.ca/en/clinics-services-programs/mental-health.aspx#YSBs-247-Crisis-Line-Crisis-Chat",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "crisis",
+        "free",
+        "ontario",
+        "phone",
+        "regional",
+        "text-chat",
+        "youth"
+      ]
+    },
+    {
+      "id": "on-resources-23-counselling-connect",
+      "name": "Counselling Connect",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Counselling Connect provides quick access to a free phone or video counselling session, available in English and French.",
+      "contact": "",
+      "serviceArea": "ottawa",
+      "website": "https://www.counsellingconnect.org/",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "counselling",
+        "english",
+        "free",
+        "french",
+        "ontario",
+        "phone",
+        "regional"
+      ]
+    },
+    {
+      "id": "on-resources-24-everymind",
+      "name": "EveryMind",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "EveryMind, formerly Nexus Youth Services and Peel Children’s Centre, provides mental health services for children and youth (up to 25 years old), and their families. This includes groups facilitated virtually, as well as groups and webinars for caregivers, brief and longer-term counselling, crisis support, and intensive treatment services.",
+      "contact": "905-795-3500",
+      "serviceArea": "Mississauga",
+      "website": "http://everymind.ca/",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "counselling",
+        "crisis",
+        "free",
+        "ontario",
+        "phone",
+        "regional",
+        "virtual",
+        "youth"
+      ]
+    },
+    {
+      "id": "on-resources-25-catholic-family-services-of-peel-dufferin",
+      "name": "Catholic Family Services of Peel-Dufferin",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "Free consult + varying costs",
+      "age": "",
+      "languageHours": "",
+      "description": "The Catholic Family Services of Peel-Dufferin is a multi-service counselling agency that serves individuals, couples, and families. These services include walk-in counseling, couples counseling, family and violence counseling, psychotherapy and wellness and support groups.",
+      "contact": "905-897-1644",
+      "serviceArea": "Mississauga / Peel Region",
+      "website": "https://cfspd.com",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "counselling",
+        "free",
+        "in-person",
+        "ontario",
+        "peer-support",
+        "phone",
+        "regional"
+      ]
+    },
+    {
+      "id": "on-resources-26-hope-24-7",
+      "name": "Hope 24/7",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "Variable",
+      "age": "",
+      "languageHours": "",
+      "description": "Hope 24/7 is a charity organization that offers both clinical and non-clinical services for all persons over the age of 12 who have been impacted by relationship and sexual violence. These services include individual, couple and family psychotherapy, psychotherapeutic groups, psychoeducational workshops, and more. They also provide a crisis-line for those in immediate need.",
+      "contact": "905-792-0821",
+      "serviceArea": "Brampton / GTA",
+      "website": "http://hope247.ca",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "counselling",
+        "crisis",
+        "in-person",
+        "ontario",
+        "phone",
+        "regional",
+        "sexual-violence"
+      ]
+    },
+    {
+      "id": "on-resources-27-assaulted-women-s-helpline",
+      "name": "Assaulted Women's Helpline",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "\"free, anonymous and confidential 24-hour telephone and TTY crisis telephone line to all women in the province of Ontario who have experienced any form of abuse\"",
+      "contact": "",
+      "serviceArea": "Toronto / GTA",
+      "website": "https://www.awhl.org/our-supporters",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "crisis",
+        "free",
+        "ontario",
+        "phone",
+        "regional"
+      ]
+    },
+    {
+      "id": "on-resources-28-credit-valley-hospital-child-and-mental-health-services",
+      "name": "Credit Valley Hospital, Child and Mental Health Services",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Trillium Health Partners’ Credit Valley Hospital offers various mental health inpatient and outpatient services including the child and adolescent outpatient program for those 0-18 years of age, urgent care services, a Transitional Age Youth program for those 16-24, dealing with mood disorders, anxiety, psychosis and/or borderline personality disorder, and an eating disorders program for individuals affected by anorexia nervosa, bulimia nervosa and other specified eating disorder. Other services are also available. Referrals are required, and can be made through One-link.",
+      "contact": "(905) 848-7100",
+      "serviceArea": "Mississauga",
+      "website": "https://trilliumhealthpartners.ca/patientservices/mentalhealth/Pages/default.aspx",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "counselling",
+        "crisis",
+        "eating-disorders",
+        "free",
+        "lgbtq",
+        "ontario",
+        "phone",
+        "regional",
+        "youth"
+      ]
+    },
+    {
+      "id": "on-resources-29-interim-place",
+      "name": "Interim Place",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Interim Place provides shelter, support counselling and advocacy for abused women and children, as well as a crisis line for those in immediate need.",
+      "contact": "905-676-8515 or 905-403-0864 (Crisis Lines) or (905) 403-9691",
+      "serviceArea": "Mississauga",
+      "website": "http://www.interimplace.com/",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "counselling",
+        "crisis",
+        "free",
+        "ontario",
+        "phone",
+        "regional",
+        "youth"
+      ]
+    },
+    {
+      "id": "on-resources-30-peel-crisis-capacity-network",
+      "name": "Peel Crisis Capacity Network",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Peel Crisis Capacity Network is a group of 27 different services within the Region of Peel that collaborate to offer support to children and adults with developmental disabilities, as well as those with a dual-diagnosis. Services are available to individuals, families, and PCCN accepts referrals from anyone with consent of the individual being referred.",
+      "contact": "Office hours: (905) 273-4900; After hours: (416) 410-8615 (under 18);\n(905) 278-9036 (16+)",
+      "serviceArea": "Mississauga / Peel Region",
+      "website": "http://www.pccn.ca/",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "adult",
+        "crisis",
+        "free",
+        "ontario",
+        "phone",
+        "regional",
+        "youth"
+      ]
+    },
+    {
+      "id": "on-resources-31-punjabi-community-health-services",
+      "name": "Punjabi Community Health Services",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Punjabi Community Health Services works to provide various mental health and addictions programs, including the Sahara family of programs, in a culturally competent manner, with services available in English, Punjabi, Hindi, Urdu, Malayalam, and French.",
+      "contact": "(905) 677-0889",
+      "serviceArea": "Mississauga / Peel Region",
+      "website": "http://pchs4u.com/",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "addictions",
+        "counselling",
+        "english",
+        "free",
+        "french",
+        "ontario",
+        "peer-support",
+        "phone",
+        "regional",
+        "south-asian"
+      ]
+    },
+    {
+      "id": "on-resources-32-associated-youth-services-of-peel",
+      "name": "Associated Youth Services of Peel",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "LGBTQ2"
+      ],
+      "focusText": "LGBTQ2+",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "AYSP provides in-home and community counselling involving youth and their families, dialectical behaviour therapy, school support, transitional support, confidential counselling for 2SLGBTQ+ youth, and groups for trans and gender-diverse youth.",
+      "contact": "(905) 890-5222",
+      "serviceArea": "Peel Region",
+      "website": "https://www.aysp.ca/",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "counselling",
+        "free",
+        "lgbtq",
+        "ontario",
+        "peer-support",
+        "phone",
+        "regional",
+        "youth"
+      ]
+    },
+    {
+      "id": "on-resources-33-tangerine-counselling",
+      "name": "Tangerine Counselling",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "LGBTQ2"
+      ],
+      "focusText": "LGBTQ2+",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Tangerine provides telephone-based brief consultations for youth up to 18 years of age, for a variety of issues, including behavioural difficulties, personal challenges, difficulties with gender identity and sexuality, grief, homelessness and more.",
+      "contact": "(905) 795-3530",
+      "serviceArea": "Mississauga / GTA",
+      "website": "http://www.tangerinewalkin.com/",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "counselling",
+        "free",
+        "lgbtq",
+        "ontario",
+        "phone",
+        "regional",
+        "youth"
+      ]
+    },
+    {
+      "id": "on-resources-34-the-dam",
+      "name": "The DAM",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "The DAM provides youth programming for young people aged 13-19, including a mindfulness-based stress reduction program, and various lunch and after school activities.",
+      "contact": "Office: (905) 826-6558; Meadowvale: (905) 826-4888; Cooksville: (905) 615-9184",
+      "serviceArea": "Mississauga / GTA",
+      "website": "https://www.thedam.org/",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "free",
+        "ontario",
+        "phone",
+        "regional",
+        "youth"
+      ]
+    },
+    {
+      "id": "on-resources-35-malton-neighbourhood-services",
+      "name": "Malton Neighbourhood Services",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Malton Neighbourhood Services provides for newcomers, family, youth and the Malton community, including both clinical and non-clinical youth outreach workers for individuals aged 12 to 21, mentorship based social and academic programs, and cultural support programs.",
+      "contact": "905-677-6270",
+      "serviceArea": "Mississauga",
+      "website": "https://www.mnsinfo.org/",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "counselling",
+        "free",
+        "in-person",
+        "newcomer",
+        "ontario",
+        "peer-support",
+        "phone",
+        "regional",
+        "youth"
+      ]
+    },
+    {
+      "id": "on-resources-36-roots-community-services",
+      "name": "Roots Community Services",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "Black Youth"
+      ],
+      "focusText": "Black Youth",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Roots Community Services provides culturally enriching and culturally sensitive services for the Black and Caribbean communities in Peel Region, including leadership development programs, counselling programs, support for victims of domestic abuse and sexual violence, among others.",
+      "contact": "(905) 455-6789",
+      "serviceArea": "Mississauga / Peel Region",
+      "website": "https://rootscs.org/",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "black",
+        "caribbean",
+        "counselling",
+        "free",
+        "ontario",
+        "peer-support",
+        "phone",
+        "regional",
+        "sexual-violence",
+        "youth"
+      ]
+    },
+    {
+      "id": "on-resources-37-centre-for-grief-and-healing",
+      "name": "Centre for Grief and Healing",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "The Centre for Grief and Healing utilizes a peer support model, in an individual or group format to counsel individuals coping with loss.",
+      "contact": "905-848-4337",
+      "serviceArea": "Mississsauga",
+      "website": "https://www.bereavedfamilies.ca/faq",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "free",
+        "ontario",
+        "peer-support",
+        "phone",
+        "regional"
+      ]
+    },
+    {
+      "id": "on-resources-38-family-services-of-peel",
+      "name": "Family Services of Peel",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Family Services of Peel offers one-to-one, group, and peer-to-peer counselling, including trauma-specific counselling, offers free family law services, in-school development programs for young children, employment assistance, and more.",
+      "contact": "905-453-5775",
+      "serviceArea": "Peel Region",
+      "website": "https://fspeel.org/",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "counselling",
+        "free",
+        "ontario",
+        "peer-support",
+        "phone",
+        "regional",
+        "youth"
+      ]
+    },
+    {
+      "id": "on-resources-39-family-transition-place",
+      "name": "Family Transition Place",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Family Transition Place provides emergency shelter for women and children, individual and group counselling for men and women, sexual assault counselling and workshops for all ages, as well as youth education workshops.",
+      "contact": "519-941-4357 (crisis line) or 519-942-4122 or 905-584-4357",
+      "serviceArea": "Orangeville",
+      "website": "https://familytransitionplace.ca",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "adult",
+        "counselling",
+        "crisis",
+        "free",
+        "lgbtq",
+        "ontario",
+        "phone",
+        "regional",
+        "sexual-violence",
+        "youth"
+      ]
+    },
+    {
+      "id": "on-resources-40-heart-house-hospice",
+      "name": "Heart House Hospice",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Heart House Hospice is a palliative care facilities, offering counselling, grief support for children, adolescents and families, art and music therapy programs, mindfulness programs, and more.",
+      "contact": "905-712-8119",
+      "serviceArea": "GTA",
+      "website": "https://hearthousehospice.com",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "counselling",
+        "free",
+        "ontario",
+        "phone",
+        "regional",
+        "youth"
+      ]
+    },
+    {
+      "id": "on-resources-41-peel-addiction-assessment-and-referral-platform",
+      "name": "Peel Addiction Assessment and Referral Platform",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "Addictions"
+      ],
+      "focusText": "Addictions",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "PAARC offers services for those who are struggling with their own (or a loved one’s) addiction. They assist clients in assessment, treatment and referral, offer counselling (including psychotherapy), many group programs, housing support, community withdrawal management programs, opioid treatment programs, as well as several different mental health assistance programs.",
+      "contact": "905-629-1007",
+      "serviceArea": "Peel Region",
+      "website": "https://www.paarc.com",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "addictions",
+        "counselling",
+        "free",
+        "ontario",
+        "peer-support",
+        "phone",
+        "regional"
+      ]
+    },
+    {
+      "id": "on-resources-42-one-link",
+      "name": "One-Link",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "Addictions"
+      ],
+      "focusText": "Addictions",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "One-link is an online platform that offers addictions and mental health referral services. Individuals can either reach out to One-link independently, or request their healthcare provider to do so, and One-link’s service providers will then work to connect you with the appropriate resources. Additionally, peer mentors - those who have experience with addictions and mental health - will be able to provide support.",
+      "contact": "905-338-4123 or 1-844-216-7411",
+      "serviceArea": "Online",
+      "website": "https://one-link.ca",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "addictions",
+        "counselling",
+        "free",
+        "ontario",
+        "peer-support",
+        "phone",
+        "regional",
+        "self-guided",
+        "virtual"
+      ]
+    },
+    {
+      "id": "on-resources-43-miag-centre-for-diverse-women-and-families",
+      "name": "MIAG Centre for Diverse Women and Families",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "Newcomers"
+      ],
+      "focusText": "Newcomers",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "MIAG offers women’s empowerment programs for immigrant, refugee and visible minority women, family and children’s programs including those centered around education on domestic violence, programs centered on promoting the well-being of ethnocultural communities, and counselling services with a focus on cultural competence.",
+      "contact": "905-270-6252",
+      "serviceArea": "Mississauga / Peel Region",
+      "website": "https://miag.ca",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "counselling",
+        "free",
+        "newcomer",
+        "ontario",
+        "phone",
+        "racialized",
+        "regional",
+        "youth"
+      ]
+    },
+    {
+      "id": "on-resources-44-qtbipoc-sauga",
+      "name": "QTBIPOC Sauga",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "LGBTQ2"
+      ],
+      "focusText": "LGBTQ2+",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "QTBIPOC is a community-based organization, hosting monthly gatherings of queer, trans, Black, Indigenous, and POC communities in Mississauga and Brampton.",
+      "contact": "416-993-4221",
+      "serviceArea": "Peel Region",
+      "website": "https://qtbipocsauga.ca",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "black",
+        "free",
+        "indigenous",
+        "lgbtq",
+        "ontario",
+        "peer-support",
+        "phone",
+        "racialized",
+        "regional"
+      ]
+    },
+    {
+      "id": "on-resources-45-bounceback-ontario",
+      "name": "BounceBack Ontario",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Skill-building program offered by CMHA designed to help individuals 15+ manage their mental health during\nand beyond COVID-19 through the use of telephone coaching sessions, workbooks in many different languages, and supplementary videos.",
+      "contact": "Office: 905-430-1768 //\n\nCrisis hotline: 1(866) 531-2600",
+      "serviceArea": "Ontario",
+      "website": "https://bouncebackontario.ca/",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "counselling",
+        "free",
+        "ontario",
+        "phone",
+        "regional"
+      ]
+    },
+    {
+      "id": "on-resources-46-horizons-for-youth-toronto",
+      "name": "\"Horizons for Youth\n(Toronto)\"",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "Youth shelter"
+      ],
+      "focusText": "Youth shelter",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Mental health and wellness support in 4 ways\n  1 individual counselling \n  2 wellness workshops\n  3 psychiatric services\n  4 community referrals (out patient programs at hospitals, support groups, school programs, community health centres, etc.)\nGoal - shelter, prepare, and guide homeless and at risk youth to achieve wellness and becoming contributing community members \n24 hour services, 365 days a year. \nStatistic - provided shelter, meals and program to 365 youth in 2019. \nAn EDI-  advocate on their social media.",
+      "contact": "",
+      "serviceArea": "Toronto",
+      "website": "https://horizonsforyouth.org/",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "counselling",
+        "free",
+        "ontario",
+        "peer-support",
+        "regional",
+        "youth"
+      ]
+    },
+    {
+      "id": "on-resources-47-straight-up-health",
+      "name": "Straight Up Health",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "Free consult + varying costs (for therapy), lots of options for free workshops",
+      "age": "",
+      "languageHours": "",
+      "description": "Straight Up Health offers teens, young adults, parents and families access to approachable, empowering mental health care. We aim to modernize traditional therapy settings, and support youth in building resilience and confidence. We work to break down stigma and normalize support, providing connective and personalized therapy options on a case-by-case basis. (They also offer great educational workshops!)",
+      "contact": "",
+      "serviceArea": "Southwestern ON",
+      "website": "https://www.straightuphealth.ca/",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "adult",
+        "counselling",
+        "free",
+        "ontario",
+        "regional",
+        "self-guided",
+        "virtual",
+        "youth"
+      ]
+    },
+    {
+      "id": "on-resources-48-muslim-social-services-kitchener-waterloo",
+      "name": "Muslim Social Services Kitchener-Waterloo",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Muslim Social Services Kitchener-Waterloo is a charitable organization that provides culturally- and spiritually-sensitive humanitarian and social services to the Muslim and non-Muslim communities of the Waterloo Region. MSS aims to foster a healthy and inclusive region where people can live with dignity and respect. We aim to create a deep sense of belonging in community members from collectivist contexts through programs aimed at leveraging the resilience of children and youth, creating safer families, through community outreach initiatives, counselling, bridge-building, and capacity-building.",
+      "contact": "",
+      "serviceArea": "Southwestern ON",
+      "website": "https://www.muslimsocialserviceskw.org/",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "counselling",
+        "free",
+        "muslim",
+        "ontario",
+        "peer-support",
+        "regional",
+        "text-chat",
+        "youth"
+      ]
+    },
+    {
+      "id": "on-resources-49-the-bridge-youth-resource-centre",
+      "name": "The Bridge Youth Resource Centre",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "If you're 14 to 24 and in the greater Leamington area, The Bridge is a safe, welcoming space to get help with housing, jobs, addiction, education and more.",
+      "contact": "",
+      "serviceArea": "Southwestern ON",
+      "website": "https://thebridgeyouth.ca/",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "addictions",
+        "free",
+        "ontario",
+        "regional",
+        "youth"
+      ]
+    },
+    {
+      "id": "on-resources-50-ymca-of-southwestern-ontario-ymap",
+      "name": "YMCA of Southwestern Ontario - YMAP",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "Newcomers"
+      ],
+      "focusText": "Newcomers",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "YMAP is a YMCA Integration & Leadership Program - Mapping the Way for Newcomer Youth. YMAP's main goal is to provide support and enrichment opportunities for newcomer youth to ease the adjustment to Canadian life. YMAP focuses on self-governance and opportunities for newcomer youth to establish social and professional networks.",
+      "contact": "",
+      "serviceArea": "Southwestern ON",
+      "website": "https://www.ymcaswo.ca/programs/community/newcomer-youth",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "free",
+        "newcomer",
+        "ontario",
+        "regional",
+        "self-guided",
+        "virtual",
+        "youth"
+      ]
+    },
+    {
+      "id": "on-resources-51-luso-community-services",
+      "name": "LUSO Community Services",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Offers youth support, newcomer and immigrant services",
+      "contact": "",
+      "serviceArea": "Southwestern ON",
+      "website": "http://www.lusocentre.org/",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "free",
+        "newcomer",
+        "ontario",
+        "peer-support",
+        "regional",
+        "youth"
+      ]
+    },
+    {
+      "id": "on-resources-52-monica-place",
+      "name": "Monica Place",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Located in Waterloo Region, Monica Place is an accredited,  registered non-profit child and youth mental health agency focused on the needs of pregnant and parenting youth and their children.",
+      "contact": "",
+      "serviceArea": "Southwestern ON",
+      "website": "http://www.monicaplace.ca/",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "counselling",
+        "free",
+        "ontario",
+        "regional",
+        "youth"
+      ]
+    },
+    {
+      "id": "on-resources-53-lgbt-youthline",
+      "name": "LGBT Youthline",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "Peer Support"
+      ],
+      "focusText": "Peer Support",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Youthline is a telephone line that offers confidential and non-judgemental peer support through their telephone, text and chat services. \n\nYouthline is available from Sunday to Friday, 4:00PM to 9:30 PM EST.",
+      "contact": "Telephone Service: 1-800-268-9688\n\nTexting Service: 647-694-4275",
+      "serviceArea": "Ontario",
+      "website": "https://www.youthline.ca/",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "free",
+        "ontario",
+        "peer-support",
+        "phone",
+        "regional",
+        "text-chat",
+        "youth"
+      ]
+    },
+    {
+      "id": "on-resources-55-access-mental-health-and-addictions-regional-coordinated-acccess",
+      "name": "Access Mental Health and Addictions (Regional Coordinated Acccess)",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "",
+      "age": "",
+      "languageHours": "",
+      "description": "Service navigation",
+      "contact": "",
+      "serviceArea": "Eastern Ontario",
+      "website": "https://www.accessmha.ca/#Howitworks",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "addictions",
+        "counselling",
+        "directory",
+        "ontario",
+        "regional"
+      ]
+    },
+    {
+      "id": "on-resources-56-pathways-to-care-map-connect-me",
+      "name": "Pathways to Care (Map/Connect Me)",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "Black Youth"
+      ],
+      "focusText": "Black Youth",
+      "mode": "",
+      "cost": "",
+      "age": "",
+      "languageHours": "",
+      "description": "Pathways to Care is a community-driven and youth-led systems change project committed to transforming the mental healthcare system for Black children, youth and their families.",
+      "contact": "",
+      "serviceArea": "Toronto, Hamilton, London, Windsor, Kitchener-Waterloo and Ottawa",
+      "website": "https://www.pathwaystocare.ca/",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "black",
+        "counselling",
+        "lgbtq",
+        "ontario",
+        "peer-support",
+        "regional",
+        "youth"
+      ]
+    },
+    {
+      "id": "on-resources-57-youth-wellness-hubs",
+      "name": "Youth Wellness Hubs",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "",
+      "age": "",
+      "languageHours": "",
+      "description": "Youth Wellness Hubs Ontario is an initiative that aims to bring the right services to youth and their families at the right time and in the right place. It is a network of 14 “hubs” across the province dedicated to serving youth when they need it most.",
+      "contact": "",
+      "serviceArea": "Chatham-Kent, Central Toronto, Toronto East, Scarborough, Eastern Champlain, Rockland, Eastern Champlain, Cornwall, Haliburton County, Kenora, Niagara Region, North Simcoe, Malton",
+      "website": "https://youthhubs.ca/en/",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "ontario",
+        "regional",
+        "text-chat",
+        "youth"
+      ]
+    },
+    {
+      "id": "on-resources-58-mind-your-mind",
+      "name": "Mind Your Mind",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "",
+      "age": "",
+      "languageHours": "",
+      "description": "Mindyourmind exists in the space where mental health, wellness, engagement and technology meet. We work with community partners and young people aged 14 to 29 to co-create interactive tools and innovative resources to build capacity and resilience.",
+      "contact": "",
+      "serviceArea": "Ontario",
+      "website": "https://mindyourmind.ca/",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "counselling",
+        "ontario",
+        "peer-support",
+        "regional",
+        "youth"
+      ]
+    },
+    {
+      "id": "on-resources-59-the-health-line",
+      "name": "The Health Line",
+      "region": "Ontario",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Provincial database of health services",
+      "contact": "",
+      "serviceArea": "Erie St. Clair, South West ON, Waterloo Wellingtion, Hamilton Niagara, Haldimand Brant, Central West ON, Mississauga Halton, Toronto Central, Central ON, Central East ON, South East ON, CHamplain, North Simcoe Muskoka, North East ON, North West ON",
+      "website": "www.thehealthline.ca",
+      "notes": "",
+      "sourceSheet": "ON Resources",
+      "tags": [
+        "free",
+        "ontario",
+        "regional"
+      ]
+    },
+    {
+      "id": "quebec-english-resources-3-tel-jeunes",
+      "name": "Tel Jeunes",
+      "region": "Quebec",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Phone and text line for youth under 20.",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://www.teljeunes.com/Accueil",
+      "notes": "",
+      "sourceSheet": "Quebec English Resources",
+      "tags": [
+        "free",
+        "phone",
+        "quebec",
+        "regional",
+        "text-chat",
+        "youth"
+      ]
+    },
+    {
+      "id": "quebec-english-resources-4-suicide-action-montr-al",
+      "name": "Suicide action Montréal",
+      "region": "Quebec",
+      "service": "",
+      "focus": [
+        "Suicide"
+      ],
+      "focusText": "Suicide",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Crisis phone line for folks considering suicide.",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://suicideactionmontreal.org/",
+      "notes": "",
+      "sourceSheet": "Quebec English Resources",
+      "tags": [
+        "crisis",
+        "free",
+        "phone",
+        "quebec",
+        "regional"
+      ]
+    },
+    {
+      "id": "quebec-english-resources-5-tel-aide",
+      "name": "Tel Aide",
+      "region": "Quebec",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Listening service for those struggling with mental health issues.",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://telaidemontreal.org/en/",
+      "notes": "",
+      "sourceSheet": "Quebec English Resources",
+      "tags": [
+        "counselling",
+        "free",
+        "quebec",
+        "regional"
+      ]
+    },
+    {
+      "id": "quebec-english-resources-6-ecoute-entraide",
+      "name": "Ecoute Entraide",
+      "region": "Quebec",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Listening service and support groups in Montreal.",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://www.ecoute-entraide.org/",
+      "notes": "",
+      "sourceSheet": "Quebec English Resources",
+      "tags": [
+        "free",
+        "peer-support",
+        "quebec",
+        "regional"
+      ]
+    },
+    {
+      "id": "quebec-english-resources-7-interligne",
+      "name": "Interligne",
+      "region": "Quebec",
+      "service": "",
+      "focus": [
+        "LGBTQ2"
+      ],
+      "focusText": "LGBTQ2+",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Pour les personnes concernées par la diversité sexuelle et la pluralité des genres.",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://interligne.co/en/",
+      "notes": "",
+      "sourceSheet": "Quebec English Resources",
+      "tags": [
+        "free",
+        "lgbtq",
+        "quebec",
+        "regional"
+      ]
+    },
+    {
+      "id": "quebec-english-resources-8-mcgill-students-nightline",
+      "name": "McGill Students' Nightline",
+      "region": "Quebec",
+      "service": "",
+      "focus": [
+        "Peer support"
+      ],
+      "focusText": "Peer support",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Phoneline for anyone (including outside McGill) looking for someone to talk to.",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://nightline.ssmu.ca/",
+      "notes": "",
+      "sourceSheet": "Quebec English Resources",
+      "tags": [
+        "free",
+        "peer-support",
+        "phone",
+        "quebec",
+        "regional",
+        "student",
+        "youth"
+      ]
+    },
+    {
+      "id": "quebec-english-resources-9-ligne-d-coute-et-de-r-f-rence-provinciale-pour-les-victimes-d-agression-caract-re-sexuel-leurs-proches-ou-les-professionnels-de-la-sant",
+      "name": "Ligne d'écoute et de référence provinciale pour les victimes d'agression à caractère sexuel, leurs proches ou les professionnels de la santé.",
+      "region": "Quebec",
+      "service": "",
+      "focus": [
+        "Sexual violence"
+      ],
+      "focusText": "Sexual violence",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "For survivors of sexual violence and closed ones.",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://santemontreal.qc.ca/population/services/aide-aux-victimes-dagression-sexuelle/",
+      "notes": "",
+      "sourceSheet": "Quebec English Resources",
+      "tags": [
+        "free",
+        "quebec",
+        "regional",
+        "sexual-violence"
+      ]
+    },
+    {
+      "id": "quebec-english-resources-10-aneb",
+      "name": "ANEB",
+      "region": "Quebec",
+      "service": "",
+      "focus": [
+        "Eating disorders"
+      ],
+      "focusText": "Eating disorders",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Phoneline, support groups for people with eating disorders.",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://anebquebec.com/en",
+      "notes": "",
+      "sourceSheet": "Quebec English Resources",
+      "tags": [
+        "eating-disorders",
+        "free",
+        "peer-support",
+        "phone",
+        "quebec",
+        "regional"
+      ]
+    },
+    {
+      "id": "quebec-english-resources-11-vent-over-tea",
+      "name": "Vent over tea",
+      "region": "Quebec",
+      "service": "",
+      "focus": [
+        "Peer support"
+      ],
+      "focusText": "Peer support",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Sessions in a café with an active listener.",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://ventovertea.com/",
+      "notes": "",
+      "sourceSheet": "Quebec English Resources",
+      "tags": [
+        "free",
+        "peer-support",
+        "quebec",
+        "regional"
+      ]
+    },
+    {
+      "id": "quebec-english-resources-12-p10",
+      "name": "P10",
+      "region": "Quebec",
+      "service": "",
+      "focus": [
+        "LGBTQ2"
+      ],
+      "focusText": "LGBTQ2+",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "P10 is a meeting place and advocate for lesbian, gay, bisexual, intersex, queer, trans, two-spirit, and questioning youth in Montréal, QC that provides a wide range of resources and free services for youth.",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://p10.qc.ca/",
+      "notes": "",
+      "sourceSheet": "Quebec English Resources",
+      "tags": [
+        "free",
+        "lgbtq",
+        "quebec",
+        "regional",
+        "youth"
+      ]
+    },
+    {
+      "id": "quebec-english-resources-13-relief",
+      "name": "Relief",
+      "region": "Quebec",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Our mission: supporting people living with anxiety, depression or bipolarity, and their loved ones, so they can keep moving forward.",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://myrelief.ca/relief-1/home",
+      "notes": "",
+      "sourceSheet": "Quebec English Resources",
+      "tags": [
+        "free",
+        "quebec",
+        "regional"
+      ]
+    },
+    {
+      "id": "quebec-english-resources-14-centre-de-pr-vention-du-suicide-de-qu-bec",
+      "name": "Centre de prévention du suicide de Québec",
+      "region": "Quebec",
+      "service": "",
+      "focus": [
+        "Suicide"
+      ],
+      "focusText": "Suicide",
+      "mode": "",
+      "cost": "",
+      "age": "",
+      "languageHours": "",
+      "description": "",
+      "contact": "",
+      "serviceArea": "",
+      "website": "https://www.cpsquebec.ca/",
+      "notes": "",
+      "sourceSheet": "Quebec English Resources",
+      "tags": [
+        "crisis",
+        "quebec",
+        "regional"
+      ]
+    },
+    {
+      "id": "atlantic-ca-resources-4-good2talk",
+      "name": "Good2Talk",
+      "region": "Atlantic Canada",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Good2Talk provides 24/7 free, confidential support services for post-secondary students in Ontario and Nova Scotia.",
+      "contact": "1-866-925-5454",
+      "serviceArea": "ON/NS",
+      "website": "https://good2talk.ca/",
+      "notes": "",
+      "sourceSheet": "Atlantic CA Resources",
+      "tags": [
+        "atlantic-canada",
+        "free",
+        "national",
+        "ontario",
+        "phone",
+        "regional",
+        "student",
+        "youth"
+      ]
+    },
+    {
+      "id": "atlantic-ca-resources-5-inquiring-minds-dalhousie",
+      "name": "Inquiring Minds - Dalhousie",
+      "region": "Atlantic Canada",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "The Inquiring Mind Post-Secondary is a 4.5 hour course that provides students with practical knowledge of mental health and mental illness.",
+      "contact": "1-902-494-2171",
+      "serviceArea": "NS",
+      "website": "https://www.dal.ca/campus_life/health-and-wellness/my-health/workshops-and-events/the-inquiring-mind.html",
+      "notes": "",
+      "sourceSheet": "Atlantic CA Resources",
+      "tags": [
+        "atlantic-canada",
+        "counselling",
+        "free",
+        "national",
+        "phone",
+        "regional",
+        "self-guided",
+        "student",
+        "youth"
+      ]
+    },
+    {
+      "id": "atlantic-ca-resources-6-hope-for-wellness",
+      "name": "Hope for Wellness",
+      "region": "Atlantic Canada",
+      "service": "",
+      "focus": [
+        "Indigenous Youth"
+      ],
+      "focusText": "Indigenous Youth",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "The Hope for Wellness Help Line offers immediate help to all Indigenous peoples across Canada. It is available 24 hours, 7 days a week to offer counselling & crisis intervention.",
+      "contact": "1-855-242-3310",
+      "serviceArea": "ON/NS",
+      "website": "https://www.sac-isc.gc.ca/eng/1576089519527/1576089566478",
+      "notes": "",
+      "sourceSheet": "Atlantic CA Resources",
+      "tags": [
+        "atlantic-canada",
+        "counselling",
+        "crisis",
+        "free",
+        "indigenous",
+        "national",
+        "ontario",
+        "phone",
+        "regional",
+        "youth"
+      ]
+    },
+    {
+      "id": "atlantic-ca-resources-7-healthymindsns",
+      "name": "HealthyMindsNS",
+      "region": "Atlantic Canada",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "HealthyMindsNS is a suite of online mental health resources, available free to post-secondary students, to complement the mental health supports and services available on campuses.",
+      "contact": "",
+      "serviceArea": "ON/NS",
+      "website": "https://healthymindsns.ca/",
+      "notes": "",
+      "sourceSheet": "Atlantic CA Resources",
+      "tags": [
+        "atlantic-canada",
+        "counselling",
+        "free",
+        "national",
+        "ontario",
+        "regional",
+        "student",
+        "virtual",
+        "youth"
+      ]
+    },
+    {
+      "id": "atlantic-ca-resources-8-togetherall",
+      "name": "Togetherall",
+      "region": "Atlantic Canada",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Togetherall is a clinically moderated, online peer-to-peer mental health community that empowers individuals to anonymously seek and provide support 24/7. Togetherall is free to anyone using a Nova Scotia postal code, aged 16+.",
+      "contact": "",
+      "serviceArea": "ON/NS",
+      "website": "https://togetherall.com/en-ca/accessing-mental-health-support/nova-scotia/",
+      "notes": "",
+      "sourceSheet": "Atlantic CA Resources",
+      "tags": [
+        "atlantic-canada",
+        "counselling",
+        "free",
+        "in-person",
+        "national",
+        "ontario",
+        "peer-support",
+        "regional",
+        "virtual"
+      ]
+    },
+    {
+      "id": "atlantic-ca-resources-9-better-help",
+      "name": "Better Help",
+      "region": "Atlantic Canada",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "Cost TBD",
+      "age": "",
+      "languageHours": "",
+      "description": "Online access to counsellors.",
+      "contact": "",
+      "serviceArea": "ON/NS",
+      "website": "https://www.betterhelp.com/",
+      "notes": "",
+      "sourceSheet": "Atlantic CA Resources",
+      "tags": [
+        "atlantic-canada",
+        "national",
+        "ontario",
+        "regional",
+        "virtual"
+      ]
+    },
+    {
+      "id": "atlantic-ca-resources-10-indigenous-student-center",
+      "name": "Indigenous Student Center",
+      "region": "Atlantic Canada",
+      "service": "",
+      "focus": [
+        "Indigenous Youth"
+      ],
+      "focusText": "Indigenous Youth",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "The Indigenous Student Centre offers a supportive environment for students to gather, meet other students, and have access to supports and services.",
+      "contact": "",
+      "serviceArea": "NS",
+      "website": "https://www.dal.ca/campus_life/communities/indigenous.html",
+      "notes": "",
+      "sourceSheet": "Atlantic CA Resources",
+      "tags": [
+        "atlantic-canada",
+        "free",
+        "indigenous",
+        "national",
+        "regional",
+        "student",
+        "youth"
+      ]
+    },
+    {
+      "id": "atlantic-ca-resources-11-chimo",
+      "name": "Chimo",
+      "region": "Atlantic Canada",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Chimo is a provincial crisis phone line, accessible 24 hours a day, 365 days a year to all residents of New Brunswick.",
+      "contact": "Provincial Helpline Toll Free (24 hours): 1-800-667-5005",
+      "serviceArea": "NB",
+      "website": "http://www.chimohelpline.ca/",
+      "notes": "",
+      "sourceSheet": "Atlantic CA Resources",
+      "tags": [
+        "atlantic-canada",
+        "crisis",
+        "free",
+        "national",
+        "phone",
+        "regional"
+      ]
+    },
+    {
+      "id": "atlantic-ca-resources-13-211-nova-scotia",
+      "name": "211 Nova Scotia",
+      "region": "Atlantic Canada",
+      "service": "",
+      "focus": [
+        "Service Directory"
+      ],
+      "focusText": "Service Directory",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "211 is a free, confidential, 24/7 service that connects individuals to government, health, and social services that are available across the province. The service helps individuals who are looking to find the right community or social resource but don’t know where to start.",
+      "contact": "",
+      "serviceArea": "NS",
+      "website": "https://ns.211.ca/",
+      "notes": "",
+      "sourceSheet": "Atlantic CA Resources",
+      "tags": [
+        "atlantic-canada",
+        "directory",
+        "free",
+        "national",
+        "peer-support",
+        "regional"
+      ]
+    },
+    {
+      "id": "atlantic-ca-resources-14-crisis-services-canada",
+      "name": "Crisis Services Canada",
+      "region": "Atlantic Canada",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Suicide help line",
+      "contact": "toll-free 24/7: 1 833 456 4566 or text 45645 (4 PM-12AM ET)",
+      "serviceArea": "ON/NS",
+      "website": "https://www.crisisservicescanada.ca/en/",
+      "notes": "",
+      "sourceSheet": "Atlantic CA Resources",
+      "tags": [
+        "atlantic-canada",
+        "crisis",
+        "free",
+        "national",
+        "ontario",
+        "phone",
+        "regional"
+      ]
+    },
+    {
+      "id": "atlantic-ca-resources-15-provincial-mental-health-crisis-line",
+      "name": "Provincial Mental Health Crisis Line",
+      "region": "Atlantic Canada",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "If you’re experiencing a mental health or addictions crisis, or are concerned about someone who is, the Provincial Mental Health Crisis Line is available 24 hours a day, 7 days a week.",
+      "contact": "toll-free: 1-888-429-8167",
+      "serviceArea": "NS",
+      "website": "https://novascotia.ca/mental-health-and-wellbeing/",
+      "notes": "",
+      "sourceSheet": "Atlantic CA Resources",
+      "tags": [
+        "addictions",
+        "atlantic-canada",
+        "counselling",
+        "crisis",
+        "free",
+        "national",
+        "phone",
+        "regional"
+      ]
+    },
+    {
+      "id": "atlantic-ca-resources-16-health-link-811-ns-health-services",
+      "name": "Health Link 811 NS Health Services",
+      "region": "Atlantic Canada",
+      "service": "",
+      "focus": [
+        "Health advice",
+        "information"
+      ],
+      "focusText": "Health advice and information",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "811 is a number for NS residents to call to get health advice. \n\nYou will talk to service providers in any situation (even crisis) for support on what to do and they will help determine the best care path for your situation.",
+      "contact": "",
+      "serviceArea": "NS",
+      "website": "https://811.novascotia.ca/",
+      "notes": "",
+      "sourceSheet": "Atlantic CA Resources",
+      "tags": [
+        "atlantic-canada",
+        "crisis",
+        "free",
+        "national",
+        "phone",
+        "regional"
+      ]
+    },
+    {
+      "id": "atlantic-ca-resources-17-bridge-the-gapp-navigapp",
+      "name": "Bridge the Gapp/Navigapp",
+      "region": "Atlantic Canada",
+      "service": "",
+      "focus": [
+        "General service directory"
+      ],
+      "focusText": "General service directory",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Bridge the gapp offers self-help resources, links to local services, and allows the user to share their own personal stories. Bridge the gapp also connects youth to an eight-week online self-management program called the BreathingRoom. Available in french and english.",
+      "contact": "",
+      "serviceArea": "NFLD",
+      "website": "https://nl.bridgethegapp.ca/youth/about-bridge-the-gapp/",
+      "notes": "",
+      "sourceSheet": "Atlantic CA Resources",
+      "tags": [
+        "atlantic-canada",
+        "directory",
+        "english",
+        "free",
+        "french",
+        "national",
+        "regional",
+        "self-guided",
+        "virtual",
+        "youth"
+      ]
+    },
+    {
+      "id": "atlantic-ca-resources-19-good2talk",
+      "name": "Good2Talk",
+      "region": "Atlantic Canada",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Good2Talk provides 24/7 free, confidential support services for post-secondary students in Ontario and Nova Scotia.",
+      "contact": "1-866-925-5454",
+      "serviceArea": "ON/NS",
+      "website": "https://good2talk.ca/",
+      "notes": "",
+      "sourceSheet": "Atlantic CA Resources",
+      "tags": [
+        "atlantic-canada",
+        "free",
+        "national",
+        "ontario",
+        "phone",
+        "regional",
+        "student",
+        "youth"
+      ]
+    },
+    {
+      "id": "atlantic-ca-resources-20-healthymindsns",
+      "name": "HealthyMindsNS",
+      "region": "Atlantic Canada",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "HealthyMindsNS is a suite of online mental health resources, available free to post-secondary students, to complement the mental health supports and services available on campuses.",
+      "contact": "",
+      "serviceArea": "ON/NS",
+      "website": "https://healthymindsns.ca/",
+      "notes": "",
+      "sourceSheet": "Atlantic CA Resources",
+      "tags": [
+        "atlantic-canada",
+        "counselling",
+        "free",
+        "national",
+        "ontario",
+        "regional",
+        "student",
+        "virtual",
+        "youth"
+      ]
+    },
+    {
+      "id": "atlantic-ca-resources-21-togetherall",
+      "name": "Togetherall",
+      "region": "Atlantic Canada",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Togetherall is a clinically moderated, online peer-to-peer mental health community that empowers individuals to anonymously seek and provide support 24/7. Togetherall is free to anyone using a Nova Scotia postal code, aged 16+.",
+      "contact": "",
+      "serviceArea": "ON/NS",
+      "website": "https://togetherall.com/en-ca/accessing-mental-health-support/nova-scotia/",
+      "notes": "",
+      "sourceSheet": "Atlantic CA Resources",
+      "tags": [
+        "atlantic-canada",
+        "counselling",
+        "free",
+        "in-person",
+        "national",
+        "ontario",
+        "peer-support",
+        "regional",
+        "virtual"
+      ]
+    },
+    {
+      "id": "atlantic-ca-resources-22-youth-outreach-program",
+      "name": "Youth Outreach Program",
+      "region": "Atlantic Canada",
+      "service": "",
+      "focus": [
+        "12-24 year olds"
+      ],
+      "focusText": "12-24 year olds",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "The Youth Outreach program is a community-based program designed to improve the immediate and long-term social, educational/vocational, economic and health outcomes for vulnerable youth. Youth Outreach has three program streams: General, Sexual Violence Prevention, and Youth in Care.",
+      "contact": "Toll-free: 1-800-670-4357",
+      "serviceArea": "NS",
+      "website": "https://novascotia.ca/coms/families/prevention-and-early-intervention/youth-outreach-program.html",
+      "notes": "",
+      "sourceSheet": "Atlantic CA Resources",
+      "tags": [
+        "atlantic-canada",
+        "free",
+        "national",
+        "peer-support",
+        "phone",
+        "regional",
+        "sexual-violence",
+        "youth"
+      ]
+    },
+    {
+      "id": "atlantic-ca-resources-23-cmha-ns",
+      "name": "CMHA - NS",
+      "region": "Atlantic Canada",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "",
+      "age": "",
+      "languageHours": "",
+      "description": "CMHA - NS is the NS division of the Canadian Mental Health Association that provides a wide variety for mental health management strategies and supports in your area.",
+      "contact": "",
+      "serviceArea": "NS",
+      "website": "https://novascotia.cmha.ca/mental-health/find-help/",
+      "notes": "",
+      "sourceSheet": "Atlantic CA Resources",
+      "tags": [
+        "atlantic-canada",
+        "counselling",
+        "national",
+        "regional"
+      ]
+    },
+    {
+      "id": "atlantic-ca-resources-25-chimo",
+      "name": "Chimo",
+      "region": "Atlantic Canada",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Chimo is a provincial crisis phone line, accessible 24 hours a day, 365 days a year to all residents of New Brunswick.",
+      "contact": "Provincial Helpline Toll Free (24 hours): 1-800-667-5005",
+      "serviceArea": "NB",
+      "website": "http://www.chimohelpline.ca/",
+      "notes": "",
+      "sourceSheet": "Atlantic CA Resources",
+      "tags": [
+        "atlantic-canada",
+        "crisis",
+        "free",
+        "national",
+        "phone",
+        "regional"
+      ]
+    },
+    {
+      "id": "atlantic-ca-resources-26-horizon",
+      "name": "Horizon",
+      "region": "Atlantic Canada",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Horizon Health Network (Horizon) is proud of its dedicated team of health care professionals who are focused on delivering safe and quality care to our patients, clients, families and communities. Horizon is the largest regional health authority – and one of the largest employers – in New Brunswick, and the second-largest health authority in Atlantic Canada.",
+      "contact": "",
+      "serviceArea": "NB",
+      "website": "https://horizonnb.ca/",
+      "notes": "",
+      "sourceSheet": "Atlantic CA Resources",
+      "tags": [
+        "atlantic-canada",
+        "free",
+        "national",
+        "regional"
+      ]
+    },
+    {
+      "id": "atlantic-ca-resources-27-atlantic-wellenss-community-center",
+      "name": "Atlantic Wellenss Community Center",
+      "region": "Atlantic Canada",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Atlantic Wellness is the place in Southeastern NB (Moncton) for youth and young adults ages 12 to 21 to receive the mental health services they need.",
+      "contact": "",
+      "serviceArea": "NB",
+      "website": "https://atlanticwellness.org/",
+      "notes": "",
+      "sourceSheet": "Atlantic CA Resources",
+      "tags": [
+        "adult",
+        "atlantic-canada",
+        "counselling",
+        "free",
+        "national",
+        "peer-support",
+        "regional",
+        "youth"
+      ]
+    },
+    {
+      "id": "atlantic-ca-resources-29-the-island-helpline",
+      "name": "The Island Helpline",
+      "region": "Atlantic Canada",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "The Island Helpline provides free, confidential emotional support and crisis intervention to Islanders of all ages. Our trained and caring staff and volunteers are here to answer your call any time of the day or night - 7 days a week, 365 days a year.",
+      "contact": "Toll Free (24 hours): 1-800-218-2885",
+      "serviceArea": "PEI",
+      "website": "https://www.theislandhelpline.com/",
+      "notes": "",
+      "sourceSheet": "Atlantic CA Resources",
+      "tags": [
+        "adult",
+        "atlantic-canada",
+        "crisis",
+        "free",
+        "national",
+        "phone",
+        "regional"
+      ]
+    },
+    {
+      "id": "atlantic-ca-resources-30-farmers-talk",
+      "name": "Farmers Talk",
+      "region": "Atlantic Canada",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Provides confidential, professional counselling services to farmers and farm families struggling with stress, anxiety, depression and other mental health and substance use concerns.",
+      "contact": "1-800-736-8006 (toll-free)",
+      "serviceArea": "PEI",
+      "website": "https://www.farmerstalk.ca/",
+      "notes": "",
+      "sourceSheet": "Atlantic CA Resources",
+      "tags": [
+        "addictions",
+        "atlantic-canada",
+        "counselling",
+        "free",
+        "national",
+        "phone",
+        "regional"
+      ]
+    },
+    {
+      "id": "atlantic-ca-resources-31-public-safety-calls",
+      "name": "Public Safety Calls",
+      "region": "Atlantic Canada",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Public safety personnel make the safety and security of Islanders and communities their priority.",
+      "contact": "",
+      "serviceArea": "PEI",
+      "website": "https://www.publicsafetycalls.ca/",
+      "notes": "",
+      "sourceSheet": "Atlantic CA Resources",
+      "tags": [
+        "atlantic-canada",
+        "free",
+        "national",
+        "regional"
+      ]
+    },
+    {
+      "id": "atlantic-ca-resources-32-our-landing-place",
+      "name": "Our Landing Place",
+      "region": "Atlantic Canada",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "$80-300",
+      "age": "",
+      "languageHours": "",
+      "description": "Collective of LGBTQ2IA+ identified counsellors offering sex-positive, affirming and competent online and phone counselling across Canada (Turtle Island). We work through an anti-oppressive, intersectional feminist lens.",
+      "contact": "",
+      "serviceArea": "PEI",
+      "website": "https://www.ourlandingplace.com/",
+      "notes": "",
+      "sourceSheet": "Atlantic CA Resources",
+      "tags": [
+        "atlantic-canada",
+        "counselling",
+        "lgbtq",
+        "national",
+        "phone",
+        "regional",
+        "virtual"
+      ]
+    },
+    {
+      "id": "atlantic-ca-resources-33-bridge-the-gapp",
+      "name": "Bridge the Gapp",
+      "region": "Atlantic Canada",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "",
+      "age": "",
+      "languageHours": "",
+      "description": "Bridge the Gapp provides both a youth and adult online resouce that is designed to support mental wellness.",
+      "contact": "",
+      "serviceArea": "PEI",
+      "website": "pei.bridgethegapp.ca",
+      "notes": "",
+      "sourceSheet": "Atlantic CA Resources",
+      "tags": [
+        "adult",
+        "atlantic-canada",
+        "national",
+        "regional",
+        "self-guided",
+        "virtual",
+        "youth"
+      ]
+    },
+    {
+      "id": "atlantic-ca-resources-34-cmha-peer-support",
+      "name": "CMHA - Peer Support",
+      "region": "Atlantic Canada",
+      "service": "",
+      "focus": [
+        "Peer Support"
+      ],
+      "focusText": "Peer Support",
+      "mode": "",
+      "cost": "",
+      "age": "",
+      "languageHours": "",
+      "description": "CMHA - Peer Support offers a peer support program that holds peer support sessions every Monday from 11:30-1:30 pm AST \nand every Wednesday from 7-9 pm AST in Charlottetown.",
+      "contact": "",
+      "serviceArea": "PEI",
+      "website": "https://pei.cmha.ca/home/find-help/peer-support/",
+      "notes": "",
+      "sourceSheet": "Atlantic CA Resources",
+      "tags": [
+        "atlantic-canada",
+        "national",
+        "peer-support",
+        "regional"
+      ]
+    },
+    {
+      "id": "atlantic-ca-resources-36-bridge-the-gapp",
+      "name": "Bridge the gapp",
+      "region": "Atlantic Canada",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Bridge the gapp is an online mental health resource available in Newfoundland and Labrador connecting youth and adults to local services, information and tools to support them",
+      "contact": "",
+      "serviceArea": "NFL",
+      "website": "https://nl.bridgethegapp.ca/adult/service-directory/channal-warm-line/",
+      "notes": "",
+      "sourceSheet": "Atlantic CA Resources",
+      "tags": [
+        "adult",
+        "atlantic-canada",
+        "counselling",
+        "free",
+        "national",
+        "regional",
+        "self-guided",
+        "virtual",
+        "youth"
+      ]
+    },
+    {
+      "id": "atlantic-ca-resources-37-lifewise-provincial-warm-line",
+      "name": "Lifewise Provincial Warm Line",
+      "region": "Atlantic Canada",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Non-emergency, non-crisis telephone support and referral service. Operated by trained peer supporters.",
+      "contact": "",
+      "serviceArea": "NFL",
+      "website": "https://nl.bridgethegapp.ca/service-directory/channal-warm-line/",
+      "notes": "",
+      "sourceSheet": "Atlantic CA Resources",
+      "tags": [
+        "atlantic-canada",
+        "crisis",
+        "free",
+        "national",
+        "peer-support",
+        "phone",
+        "regional"
+      ]
+    },
+    {
+      "id": "atlantic-ca-resources-38-mental-health-crisis-line-811",
+      "name": "Mental Health Crisis Line - 811",
+      "region": "Atlantic Canada",
+      "service": "",
+      "focus": [
+        "General"
+      ],
+      "focusText": "General",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Number for NFL residents to call to get health advice. Helps to determine the best care path for your situation. Talk to service providers in any situation (even crisis) for support on what to do.",
+      "contact": "",
+      "serviceArea": "NFL",
+      "website": "https://www.811healthline.ca/",
+      "notes": "",
+      "sourceSheet": "Atlantic CA Resources",
+      "tags": [
+        "atlantic-canada",
+        "counselling",
+        "crisis",
+        "free",
+        "national",
+        "phone",
+        "regional"
+      ]
+    },
+    {
+      "id": "atlantic-ca-resources-39-doorways",
+      "name": "Doorways",
+      "region": "Atlantic Canada",
+      "service": "",
+      "focus": [
+        "Counselling"
+      ],
+      "focusText": "Counselling",
+      "mode": "",
+      "cost": "",
+      "age": "",
+      "languageHours": "",
+      "description": "Doorways is a program that provides rapid access to mental health and addictions counselling services. Doorways has locations in St. Johns, Rural Avalon, Clarenville and Bonavista, Clarenville and Bonavista and Burin Peninsula that walk-in service. Some locations provide same-day or next day services or appointments by phone. \n\nThe walk-in counselling services are available without an appointment or referral.",
+      "contact": "",
+      "serviceArea": "NFL",
+      "website": "mha.easternhealth.ca/doorways/",
+      "notes": "",
+      "sourceSheet": "Atlantic CA Resources",
+      "tags": [
+        "addictions",
+        "atlantic-canada",
+        "counselling",
+        "in-person",
+        "national",
+        "phone",
+        "regional",
+        "self-guided",
+        "virtual"
+      ]
+    },
+    {
+      "id": "atlantic-ca-resources-40-2slgbtqia-warm-line",
+      "name": "2SLGBTQIA+ Warm Line",
+      "region": "Atlantic Canada",
+      "service": "",
+      "focus": [],
+      "focusText": "",
+      "mode": "",
+      "cost": "No cost",
+      "age": "",
+      "languageHours": "",
+      "description": "Planned Parenthood NL’s 2SLGBTQIA+ Warm Line is a peer support service run by and for 2SLGBTQIA+ people in Newfoundland and Labrador.",
+      "contact": "https://www.plannedparenthoodnlshc.com/warmline.html",
+      "serviceArea": "NFL",
+      "website": "",
+      "notes": "",
+      "sourceSheet": "Atlantic CA Resources",
+      "tags": [
+        "atlantic-canada",
+        "free",
+        "lgbtq",
+        "national",
+        "peer-support",
+        "regional"
+      ]
+    }
+  ]
+}
