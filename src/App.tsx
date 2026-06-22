@@ -1,6 +1,8 @@
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import {
+  ArrowDown,
   ArrowLeft,
+  ArrowRight,
   ExternalLink,
   LifeBuoy,
   MapPin,
@@ -15,10 +17,13 @@ import {
   questions,
   rankResources
 } from "./survey";
+import masterOogwayImage from "../assets/master-oogway-kung-fu-panda.gif";
+import poohImage from "../assets/pooh meme.jpeg";
 
 type SurveyState = {
   step: number;
-  selected: Answer[];
+  responses: Answer[][];
+  completed: boolean;
 };
 
 type ResourceState =
@@ -28,23 +33,30 @@ type ResourceState =
 
 const initialState: SurveyState = {
   step: 0,
-  selected: []
+  responses: [],
+  completed: false
 };
 
 function App() {
   const [state, setState] = useState<SurveyState>(initialState);
+  const [surveyVisible, setSurveyVisible] = useState(false);
+  const surveyRef = useRef<HTMLElement>(null);
   const [resourceState, setResourceState] = useState<ResourceState>({
     status: "loading",
     resources: []
   });
 
-  const hasResults = state.selected.length === questions.length;
+  const hasResults = state.completed;
   const currentQuestion = questions[state.step];
-  const criteria = useMemo(() => buildCriteria(state.selected), [state.selected]);
+  const selectedAnswers = useMemo(() => state.responses.flat(), [state.responses]);
+  const criteria = useMemo(() => buildCriteria(selectedAnswers), [selectedAnswers]);
   const hasCrisisIntent = Boolean(criteria.crisis);
+  const skippedToCrisisResults = selectedAnswers.some(
+    (answer) => answer.finishSurvey
+  );
   const rankedResources = useMemo(
-    () => rankResources(resourceState.resources, state.selected).slice(0, 12),
-    [resourceState.resources, state.selected]
+    () => rankResources(resourceState.resources, selectedAnswers).slice(0, 12),
+    [resourceState.resources, selectedAnswers]
   );
   const progress = hasResults
     ? 100
@@ -70,21 +82,81 @@ function App() {
       );
   }, []);
 
+  useEffect(() => {
+    const survey = surveyRef.current;
+    if (!survey) {
+      return;
+    }
+
+    const observer = new IntersectionObserver(
+      ([entry]) => {
+        if (!hasResults) {
+          setSurveyVisible(entry.isIntersecting);
+        }
+      },
+      { threshold: 0.2 }
+    );
+
+    observer.observe(survey);
+    return () => observer.disconnect();
+  }, [hasResults]);
+
   function chooseAnswer(answer: Answer) {
     setState((current) => {
-      const selected = current.selected.slice(0, current.step);
-      selected[current.step] = answer;
+      const responses = current.responses.slice(0, current.step + 1);
+      responses[current.step] = [answer];
 
-      if (current.step === questions.length - 1) {
+      if (answer.finishSurvey || current.step === questions.length - 1) {
         return {
           step: current.step,
-          selected
+          responses,
+          completed: true
         };
       }
 
       return {
         step: current.step + 1,
-        selected
+        responses,
+        completed: false
+      };
+    });
+  }
+
+  function toggleAnswer(answer: Answer) {
+    setState((current) => {
+      const responses = current.responses.slice(0, current.step + 1);
+      const currentAnswers = responses[current.step] ?? [];
+
+      if (answer.exclusive) {
+        responses[current.step] = currentAnswers.some((item) => item.label === answer.label)
+          ? []
+          : [answer];
+      } else {
+        const withoutExclusive = currentAnswers.filter((item) => !item.exclusive);
+        const isSelected = withoutExclusive.some((item) => item.label === answer.label);
+        responses[current.step] = isSelected
+          ? withoutExclusive.filter((item) => item.label !== answer.label)
+          : [...withoutExclusive, answer];
+      }
+
+      return { ...current, responses };
+    });
+  }
+
+  function continueSurvey() {
+    setState((current) => {
+      if (!(current.responses[current.step]?.length > 0)) {
+        return current;
+      }
+
+      if (current.step === questions.length - 1) {
+        return { ...current, completed: true };
+      }
+
+      return {
+        step: current.step + 1,
+        responses: current.responses,
+        completed: false
       };
     });
   }
@@ -92,15 +164,19 @@ function App() {
   function goBack() {
     setState((current) => {
       if (hasResults) {
+        const lastAnsweredStep = current.responses.length - 1;
         return {
-          step: questions.length - 1,
-          selected: current.selected.slice(0, questions.length - 1)
+          step: Math.max(0, lastAnsweredStep),
+          responses: current.responses,
+          completed: false
         };
       }
 
+      const previousStep = Math.max(0, current.step - 1);
       return {
-        step: Math.max(0, current.step - 1),
-        selected: current.selected.slice(0, Math.max(0, current.step - 1))
+        step: previousStep,
+        responses: current.responses.slice(0, previousStep + 1),
+        completed: false
       };
     });
   }
@@ -108,44 +184,76 @@ function App() {
   return (
     <main className="app-shell">
       <section className="hero" aria-labelledby="app-title">
-        <img
-          className="hero-image"
-          src="/assets/survey-tabletop.png"
-          alt="Colorful cards and resource notes arranged on a bright tabletop"
-        />
-        <div className="hero-overlay" />
         <div className="hero-content">
-          <p className="eyebrow">Resource finder</p>
-          <h1 id="app-title">Find support that fits.</h1>
-          <p className="intro">
-            A simple way to narrow the resource list into a few mental health
-            options that feel worth starting with.
-          </p>
+          <div className="hero-copy">
+            <h1 id="app-title">
+              Find The Mental Health Resource That's <em>Actually</em> Meant For You
+            </h1>
+            <p className="intro">
+              Because support isn't one-size-fits-all
+            </p>
+            <button
+              className="start-quiz-button"
+              type="button"
+              onClick={() =>
+                surveyRef.current?.scrollIntoView({
+                  behavior: "smooth",
+                  block: "start"
+                })
+              }
+            >
+              Start quiz
+              <ArrowDown size={20} aria-hidden="true" />
+            </button>
+          </div>
+          <img
+            className="hero-header-image"
+            src={poohImage}
+            alt="Two friends sitting together beneath a colorful sky"
+          />
         </div>
       </section>
 
-      <section className="survey-band" aria-live="polite">
-        <div className="survey-layout">
+      <section
+        className="survey-band"
+        ref={surveyRef}
+        aria-live="polite"
+        tabIndex={-1}
+      >
+        <div
+          className={`survey-layout ${
+            surveyVisible || hasResults ? "survey-visible" : ""
+          }`}
+        >
           <ProgressPanel
             hasResults={hasResults}
             progress={progress}
-            resourceCount={resourceState.resources.length}
-            selectedCount={state.selected.length}
+            currentStep={state.step}
           />
 
-          <article className="question-card">
+          <article className="question-card survey-enter-right">
             <div
               className="question-transition"
-              key={hasResults ? "results" : currentQuestion.kicker}
+              key={
+                hasResults
+                  ? "results"
+                  : currentQuestion.kicker
+              }
             >
               {hasResults ? (
                 <Results
                   hasCrisisIntent={hasCrisisIntent}
+                  skippedToCrisisResults={skippedToCrisisResults}
                   resourceState={resourceState}
                   resources={rankedResources}
                 />
               ) : (
-                <QuestionView question={currentQuestion} onChoose={chooseAnswer} />
+                <QuestionView
+                  question={currentQuestion}
+                  selectedAnswers={state.responses[state.step] ?? []}
+                  onChoose={chooseAnswer}
+                  onToggle={toggleAnswer}
+                />
               )}
             </div>
 
@@ -160,6 +268,17 @@ function App() {
               >
                 <ArrowLeft size={19} aria-hidden="true" />
               </button>
+              {!hasResults && currentQuestion.multiple && (
+                <button
+                  className="continue-button"
+                  type="button"
+                  onClick={continueSurvey}
+                  disabled={!state.responses[state.step]?.length}
+                >
+                  Continue
+                  <ArrowRight size={18} aria-hidden="true" />
+                </button>
+              )}
               <button
                 className="icon-button"
                 type="button"
@@ -180,64 +299,72 @@ function App() {
 function ProgressPanel({
   hasResults,
   progress,
-  resourceCount,
-  selectedCount
+  currentStep
 }: {
   hasResults: boolean;
   progress: number;
-  resourceCount: number;
-  selectedCount: number;
+  currentStep: number;
 }) {
   return (
-    <aside className="status-panel" aria-label="Survey progress">
+    <aside className="status-panel survey-enter-left" aria-label="Survey progress">
       <div>
         <p className="panel-label">Progress</p>
         <div className="progress-track" aria-hidden="true">
           <div className="progress-fill" style={{ width: `${progress}%` }} />
         </div>
         <p className="progress-copy">
-          {hasResults ? "Results ready" : `Question ${selectedCount + 1} of ${questions.length}`}
+          {hasResults ? "Results ready" : `Question ${currentStep + 1} of ${questions.length}`}
         </p>
       </div>
 
       <div className="signal-list" aria-hidden="true">
         {questions.map((question, index) => (
           <span
-            className={index < selectedCount || hasResults ? "active" : ""}
+            className={index <= currentStep || hasResults ? "active" : ""}
             key={question.kicker}
           />
         ))}
       </div>
 
-      <div className="mini-note">
-        <LifeBuoy size={18} aria-hidden="true" />
-        <p>{resourceCount} resources loaded from the sheet.</p>
-      </div>
     </aside>
   );
 }
 
 function QuestionView({
   question,
-  onChoose
+  selectedAnswers,
+  onChoose,
+  onToggle
 }: {
   question: (typeof questions)[number];
+  selectedAnswers: Answer[];
   onChoose: (answer: Answer) => void;
+  onToggle: (answer: Answer) => void;
 }) {
   return (
     <>
-      <p className="question-kicker">{question.kicker}</p>
-      <h2>{question.title}</h2>
+      <h2>{formatQuestionTitle(question.title)}</h2>
       <div className="answers">
         {question.answers.map((answer) => (
           <button
-            className="answer-button"
+            className={`answer-button ${
+              selectedAnswers.some((item) => item.label === answer.label)
+                ? "selected"
+                : ""
+            }`}
             type="button"
             key={answer.label}
-            onClick={() => onChoose(answer)}
+            onClick={() =>
+              question.multiple ? onToggle(answer) : onChoose(answer)
+            }
+            aria-pressed={
+              question.multiple
+                ? selectedAnswers.some((item) => item.label === answer.label)
+                : undefined
+            }
           >
             <span>{answer.label}</span>
-            <small>{answer.detail}</small>
+            {answer.detail && <small>{answer.detail}</small>}
           </button>
         ))}
       </div>
@@ -245,19 +372,35 @@ function QuestionView({
   );
 }
 
+function formatQuestionTitle(title: string) {
+  const noteStart = title.indexOf(" (PS.");
+
+  if (noteStart === -1) {
+    return title;
+  }
+
+  return (
+    <>
+      {title.slice(0, noteStart)}
+      <span className="question-note">{title.slice(noteStart)}</span>
+    </>
+  );
+}
+
 function Results({
   hasCrisisIntent,
+  skippedToCrisisResults,
   resourceState,
   resources
 }: {
   hasCrisisIntent: boolean;
+  skippedToCrisisResults: boolean;
   resourceState: ResourceState;
   resources: ScoredResource[];
 }) {
   if (resourceState.status === "loading") {
     return (
       <>
-        <p className="question-kicker">Almost there</p>
         <h2>Loading resources...</h2>
       </>
     );
@@ -266,7 +409,6 @@ function Results({
   if (resourceState.status === "error") {
     return (
       <>
-        <p className="question-kicker">Resource list unavailable</p>
         <h2>We could not load the resource sheet.</h2>
         <p className="disclaimer">{resourceState.message}</p>
       </>
@@ -277,8 +419,9 @@ function Results({
     <>
       {hasCrisisIntent && <CrisisBanner />}
 
-      <p className="question-kicker">Best matches</p>
-      <h2>{resources.length ? "Here are a few places to start." : "No close matches yet."}</h2>
+      {!skippedToCrisisResults && <ResultsIntro />}
+
+      <h2>{resources.length ? "Here are a few places to start" : "No close matches yet."}</h2>
 
       <p className="results-intro">
         Matches are ranked from the resource sheet using your location, support type,
@@ -303,6 +446,34 @@ function Results({
         danger, contact emergency services or call/text 988 in Canada or the U.S.
       </p>
     </>
+  );
+}
+
+function ResultsIntro() {
+  return (
+    <section className="results-reveal">
+      <img
+        className="results-reveal-image"
+        src={masterOogwayImage}
+        alt="Master Oogway smiling"
+      />
+      <div className="results-reveal-copy">
+        <h2>Results are in... and we've got a match!</h2>
+        <p>
+          Based on your responses and the preferences you shared (great choices,
+          by the way), we've selected a few resources that we think could be a
+          great fit for you. Give them a try, see what clicks, and don't be afraid
+          to shop around a little - finding the right support is all about finding
+          what works for you.
+        </p>
+        <p>
+          And remember, it takes a lot of courage to seek help. We're proud of you
+          for taking this step and making it this far. We wish you all the best as
+          you continue your mental health journey ;)
+        </p>
+        <p className="results-signature">- Jack.org Team</p>
+      </div>
+    </section>
   );
 }
 
@@ -335,7 +506,6 @@ function ResourceCard({ resource }: { resource: ScoredResource }) {
           </p>
           <h3>{resource.name}</h3>
         </div>
-        <span className="score-pill">{matchLabel(resource.score)}</span>
       </div>
 
       <p className="resource-description">
@@ -404,18 +574,6 @@ function normalizedUrl(value: string) {
   }
 
   return `https://${trimmed}`;
-}
-
-function matchLabel(score: number) {
-  if (score >= 35) {
-    return "Best match";
-  }
-
-  if (score >= 20) {
-    return "Strong match";
-  }
-
-  return "Good fit";
 }
 
 export default App;

@@ -30,7 +30,7 @@ REGION_BY_SHEET = {
 }
 
 REGION_ALIASES = {
-    "national": {"national", "canada"},
+    "national": {"national"},
     "alberta": {"alberta", "ab"},
     "british-columbia": {"british columbia", "bc"},
     "saskatchewan": {"saskatchewan", "sk"},
@@ -38,6 +38,9 @@ REGION_ALIASES = {
     "ontario": {"ontario", "on"},
     "quebec": {"quebec", "qc"},
     "atlantic-canada": {"atlantic canada", "nova scotia", "new brunswick", "newfoundland", "pei", "prince edward island", "ns", "nb", "nl"},
+    "yukon": {"yukon", "yk"},
+    "northwest-territories": {"northwest territories", "nwt"},
+    "nunavut": {"nunavut"},
     "north": {"yukon", "northwest territories", "nunavut", "yk", "nwt"},
 }
 
@@ -46,6 +49,7 @@ TAG_RULES = {
     "peer-support": ["peer", "warmline", "support group", "community"],
     "counselling": ["counselling", "counseling", "therapy", "therapist", "clinical", "mental health"],
     "directory": ["directory", "resource hub", "service directory", "navigation"],
+    "education": ["education", "educational", "information", "knowledge", "learn"],
     "self-guided": ["app", "self-guided", "worksheet", "course", "toolkit", "online resource"],
     "phone": ["call:", "phone", "telephone", "helpline", "1-800", "811", "988"],
     "text-chat": ["text", "chat", "sms"],
@@ -54,8 +58,10 @@ TAG_RULES = {
     "free": ["no cost", "free"],
     "low-cost": ["low cost", "low-cost", "sliding scale", "pay what you can", "pwyc", "affordable"],
     "youth": ["youth", "young people", "young adults", "children", "teen", "student", "12-24", "18-35", "under 20"],
+    "child": ["child", "children", "under 12", "0-12", "4-18"],
+    "young-adult": ["young adult", "young adults", "18-25", "18-35"],
     "student": ["student", "post-secondary", "campus", "university", "college"],
-    "adult": ["adult", "adults", "18+", "all ages", "any age"],
+    "adult": ["adult", "adults", "18+"],
     "indigenous": ["indigenous", "first nations", "inuit", "métis", "metis"],
     "black": ["black youth", "black community", "black communities", "black"],
     "caribbean": ["caribbean"],
@@ -69,6 +75,9 @@ TAG_RULES = {
     "racialized": ["bipoc", "qtbipoc", "poc", "racialized", "visible minority", "ethnocultural"],
     "lgbtq": ["lgbtq", "lgbtq2", "2slgbtq", "queer", "trans"],
     "newcomer": ["newcomer", "immigrant", "refugee"],
+    "family-caregiver": ["caregiver", "caregivers", "family support", "families", "parents"],
+    "mens-mental-health": ["men's mental health", "mens mental health", "men and boys", "heads up guys"],
+    "trauma": ["trauma", "ptsd", "post-traumatic"],
     "french": ["french", "français", "francophone"],
     "english": ["english"],
     "addictions": ["addiction", "substance use"],
@@ -193,6 +202,14 @@ def infer_tags(record, region):
     for tag, needles in TAG_RULES.items():
         if any(needle in haystack for needle in needles):
             tags.add(tag)
+
+    has_all_age_language = "all ages" in haystack or "any age" in haystack
+    has_bounded_youth_range = re.search(
+        r"\b(?:under\s+\d{1,2}|\d{1,2}\s*(?:-|to)\s*(?:1[0-8]))\b",
+        haystack,
+    )
+    if has_all_age_language and not has_bounded_youth_range:
+        tags.add("adult")
 
     contact_text = record.get("contact information", "")
     if re.search(r"(?:\+?1[-.\s]?)?(?:\(?\d{3}\)?[-.\s]?){2}\d{4}", contact_text):

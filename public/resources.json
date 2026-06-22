@@ -216,6 +216,7 @@
       "tags": [
         "adult",
         "crisis",
+        "education",
         "english",
         "free",
         "national",
@@ -454,6 +455,7 @@
       "sourceSheet": "National Resources",
       "tags": [
         "directory",
+        "family-caregiver",
         "free",
         "national",
         "peer-support",
@@ -888,6 +890,8 @@
       "sourceSheet": "National FR CA Resources",
       "tags": [
         "counselling",
+        "education",
+        "family-caregiver",
         "free",
         "low-cost",
         "national",
@@ -1007,7 +1011,9 @@
         "phone",
         "regional",
         "virtual",
-        "youth"
+        "young-adult",
+        "youth",
+        "yukon"
       ]
     },
     {
@@ -1038,7 +1044,9 @@
         "peer-support",
         "phone",
         "regional",
-        "virtual"
+        "trauma",
+        "virtual",
+        "yukon"
       ]
     },
     {
@@ -1065,9 +1073,11 @@
         "in-person",
         "indigenous",
         "north",
+        "northwest-territories",
         "peer-support",
         "regional",
         "virtual",
+        "young-adult",
         "youth"
       ]
     },
@@ -1099,6 +1109,7 @@
         "free",
         "french",
         "north",
+        "northwest-territories",
         "phone",
         "regional",
         "virtual"
@@ -1130,6 +1141,7 @@
         "english",
         "free",
         "north",
+        "nunavut",
         "peer-support",
         "phone",
         "regional",
@@ -1270,6 +1282,7 @@
       "tags": [
         "british-columbia",
         "counselling",
+        "mens-mental-health",
         "regional"
       ]
     },
@@ -1337,6 +1350,7 @@
       "sourceSheet": "BC Resources",
       "tags": [
         "british-columbia",
+        "child",
         "counselling",
         "regional",
         "youth"
@@ -1515,6 +1529,7 @@
       "sourceSheet": "AB Resources",
       "tags": [
         "alberta",
+        "family-caregiver",
         "in-person",
         "indigenous",
         "phone",
@@ -1602,9 +1617,11 @@
       "notes": "All ages, youth from 4-18",
       "sourceSheet": "AB Resources",
       "tags": [
-        "adult",
         "alberta",
+        "child",
         "counselling",
+        "education",
+        "family-caregiver",
         "regional",
         "youth"
       ]
@@ -1690,6 +1707,7 @@
         "alberta",
         "counselling",
         "crisis",
+        "education",
         "regional"
       ]
     },
@@ -1715,6 +1733,7 @@
       "tags": [
         "alberta",
         "directory",
+        "education",
         "free",
         "phone",
         "regional"
@@ -1855,6 +1874,7 @@
       "tags": [
         "alberta",
         "crisis",
+        "education",
         "free",
         "phone",
         "regional"
@@ -1909,6 +1929,7 @@
       "tags": [
         "addictions",
         "counselling",
+        "education",
         "english",
         "free",
         "lgbtq",
@@ -1996,6 +2017,8 @@
       "tags": [
         "addictions",
         "counselling",
+        "education",
+        "family-caregiver",
         "free",
         "regional",
         "saskatchewan"
@@ -2101,6 +2124,7 @@
       "sourceSheet": "SK Resources",
       "tags": [
         "directory",
+        "education",
         "regional",
         "saskatchewan",
         "youth"
@@ -2128,6 +2152,7 @@
       "tags": [
         "counselling",
         "crisis",
+        "education",
         "free",
         "in-person",
         "manitoba",
@@ -2210,6 +2235,7 @@
       "notes": "",
       "sourceSheet": "MB Resources",
       "tags": [
+        "education",
         "free",
         "indigenous",
         "manitoba",
@@ -2271,6 +2297,7 @@
         "free",
         "manitoba",
         "regional",
+        "trauma",
         "youth"
       ]
     },
@@ -2491,7 +2518,6 @@
         "english",
         "free",
         "french",
-        "national",
         "ontario",
         "phone",
         "regional",
@@ -2553,7 +2579,8 @@
         "peer-support",
         "phone",
         "regional",
-        "south-asian"
+        "south-asian",
+        "trauma"
       ]
     },
     {
@@ -2581,9 +2608,11 @@
         "counselling",
         "crisis",
         "directory",
+        "family-caregiver",
         "free",
         "ontario",
         "regional",
+        "young-adult",
         "youth"
       ]
     },
@@ -2660,6 +2689,7 @@
       "notes": "",
       "sourceSheet": "ON Resources",
       "tags": [
+        "education",
         "free",
         "ontario",
         "regional",
@@ -2714,6 +2744,7 @@
       "sourceSheet": "ON Resources",
       "tags": [
         "counselling",
+        "family-caregiver",
         "free",
         "ontario",
         "peer-support",
@@ -2771,6 +2802,7 @@
       "notes": "",
       "sourceSheet": "ON Resources",
       "tags": [
+        "child",
         "counselling",
         "eating-disorders",
         "free",
@@ -2861,6 +2893,7 @@
       "sourceSheet": "ON Resources",
       "tags": [
         "counselling",
+        "education",
         "free",
         "ontario",
         "phone",
@@ -2888,6 +2921,7 @@
       "sourceSheet": "ON Resources",
       "tags": [
         "counselling",
+        "family-caregiver",
         "free",
         "ontario",
         "regional",
@@ -2916,6 +2950,7 @@
       "notes": "",
       "sourceSheet": "ON Resources",
       "tags": [
+        "education",
         "free",
         "indigenous",
         "ontario",
@@ -2944,7 +2979,9 @@
       "notes": "",
       "sourceSheet": "ON Resources",
       "tags": [
+        "child",
         "crisis",
+        "family-caregiver",
         "free",
         "ontario",
         "phone",
@@ -3002,8 +3039,10 @@
       "notes": "",
       "sourceSheet": "ON Resources",
       "tags": [
+        "child",
         "counselling",
         "crisis",
+        "family-caregiver",
         "free",
         "ontario",
         "phone",
@@ -3033,6 +3072,7 @@
       "sourceSheet": "ON Resources",
       "tags": [
         "counselling",
+        "family-caregiver",
         "free",
         "in-person",
         "ontario",
@@ -3063,6 +3103,7 @@
       "tags": [
         "counselling",
         "crisis",
+        "education",
         "in-person",
         "ontario",
         "phone",
@@ -3117,6 +3158,7 @@
       "notes": "",
       "sourceSheet": "ON Resources",
       "tags": [
+        "child",
         "counselling",
         "crisis",
         "eating-disorders",
@@ -3148,6 +3190,7 @@
       "notes": "",
       "sourceSheet": "ON Resources",
       "tags": [
+        "child",
         "counselling",
         "crisis",
         "free",
@@ -3178,7 +3221,9 @@
       "sourceSheet": "ON Resources",
       "tags": [
         "adult",
+        "child",
         "crisis",
+        "family-caregiver",
         "free",
         "ontario",
         "phone",
@@ -3239,6 +3284,7 @@
       "sourceSheet": "ON Resources",
       "tags": [
         "counselling",
+        "family-caregiver",
         "free",
         "lgbtq",
         "ontario",
@@ -3414,12 +3460,14 @@
       "notes": "",
       "sourceSheet": "ON Resources",
       "tags": [
+        "child",
         "counselling",
         "free",
         "ontario",
         "peer-support",
         "phone",
         "regional",
+        "trauma",
         "youth"
       ]
     },
@@ -3444,8 +3492,10 @@
       "sourceSheet": "ON Resources",
       "tags": [
         "adult",
+        "child",
         "counselling",
         "crisis",
+        "education",
         "free",
         "lgbtq",
         "ontario",
@@ -3475,7 +3525,9 @@
       "notes": "",
       "sourceSheet": "ON Resources",
       "tags": [
+        "child",
         "counselling",
+        "family-caregiver",
         "free",
         "ontario",
         "phone",
@@ -3563,7 +3615,10 @@
       "notes": "",
       "sourceSheet": "ON Resources",
       "tags": [
+        "child",
         "counselling",
+        "education",
+        "family-caregiver",
         "free",
         "newcomer",
         "ontario",
@@ -3681,11 +3736,14 @@
       "tags": [
         "adult",
         "counselling",
+        "education",
+        "family-caregiver",
         "free",
         "ontario",
         "regional",
         "self-guided",
         "virtual",
+        "young-adult",
         "youth"
       ]
     },
@@ -3709,7 +3767,9 @@
       "notes": "",
       "sourceSheet": "ON Resources",
       "tags": [
+        "child",
         "counselling",
+        "family-caregiver",
         "free",
         "muslim",
         "ontario",
@@ -3740,6 +3800,7 @@
       "sourceSheet": "ON Resources",
       "tags": [
         "addictions",
+        "education",
         "free",
         "ontario",
         "regional",
@@ -3823,6 +3884,7 @@
       "notes": "",
       "sourceSheet": "ON Resources",
       "tags": [
+        "child",
         "counselling",
         "free",
         "ontario",
@@ -3907,7 +3969,9 @@
       "sourceSheet": "ON Resources",
       "tags": [
         "black",
+        "child",
         "counselling",
+        "family-caregiver",
         "lgbtq",
         "ontario",
         "peer-support",
@@ -3935,6 +3999,7 @@
       "notes": "",
       "sourceSheet": "ON Resources",
       "tags": [
+        "family-caregiver",
         "ontario",
         "regional",
         "text-chat",
@@ -4334,7 +4399,6 @@
       "tags": [
         "atlantic-canada",
         "free",
-        "national",
         "ontario",
         "phone",
         "regional",
@@ -4364,8 +4428,8 @@
       "tags": [
         "atlantic-canada",
         "counselling",
+        "education",
         "free",
-        "national",
         "phone",
         "regional",
         "self-guided",
@@ -4398,7 +4462,6 @@
         "crisis",
         "free",
         "indigenous",
-        "national",
         "ontario",
         "phone",
         "regional",
@@ -4428,7 +4491,6 @@
         "atlantic-canada",
         "counselling",
         "free",
-        "national",
         "ontario",
         "regional",
         "student",
@@ -4460,7 +4522,6 @@
         "counselling",
         "free",
         "in-person",
-        "national",
         "ontario",
         "peer-support",
         "regional",
@@ -4488,7 +4549,6 @@
       "sourceSheet": "Atlantic CA Resources",
       "tags": [
         "atlantic-canada",
-        "national",
         "ontario",
         "regional",
         "virtual"
@@ -4517,7 +4577,6 @@
         "atlantic-canada",
         "free",
         "indigenous",
-        "national",
         "regional",
         "student",
         "youth"
@@ -4546,7 +4605,6 @@
         "atlantic-canada",
         "crisis",
         "free",
-        "national",
         "phone",
         "regional"
       ]
@@ -4574,7 +4632,6 @@
         "atlantic-canada",
         "directory",
         "free",
-        "national",
         "peer-support",
         "regional"
       ]
@@ -4602,7 +4659,6 @@
         "atlantic-canada",
         "crisis",
         "free",
-        "national",
         "ontario",
         "phone",
         "regional"
@@ -4633,7 +4689,6 @@
         "counselling",
         "crisis",
         "free",
-        "national",
         "phone",
         "regional"
       ]
@@ -4661,8 +4716,8 @@
       "tags": [
         "atlantic-canada",
         "crisis",
+        "education",
         "free",
-        "national",
         "phone",
         "regional"
       ]
@@ -4692,7 +4747,6 @@
         "english",
         "free",
         "french",
-        "national",
         "regional",
         "self-guided",
         "virtual",
@@ -4721,7 +4775,6 @@
       "tags": [
         "atlantic-canada",
         "free",
-        "national",
         "ontario",
         "phone",
         "regional",
@@ -4752,7 +4805,6 @@
         "atlantic-canada",
         "counselling",
         "free",
-        "national",
         "ontario",
         "regional",
         "student",
@@ -4784,7 +4836,6 @@
         "counselling",
         "free",
         "in-person",
-        "national",
         "ontario",
         "peer-support",
         "regional",
@@ -4812,8 +4863,8 @@
       "sourceSheet": "Atlantic CA Resources",
       "tags": [
         "atlantic-canada",
+        "education",
         "free",
-        "national",
         "peer-support",
         "phone",
         "regional",
@@ -4843,7 +4894,6 @@
       "tags": [
         "atlantic-canada",
         "counselling",
-        "national",
         "regional"
       ]
     },
@@ -4870,7 +4920,6 @@
         "atlantic-canada",
         "crisis",
         "free",
-        "national",
         "phone",
         "regional"
       ]
@@ -4896,8 +4945,8 @@
       "sourceSheet": "Atlantic CA Resources",
       "tags": [
         "atlantic-canada",
+        "family-caregiver",
         "free",
-        "national",
         "regional"
       ]
     },
@@ -4925,9 +4974,9 @@
         "atlantic-canada",
         "counselling",
         "free",
-        "national",
         "peer-support",
         "regional",
+        "young-adult",
         "youth"
       ]
     },
@@ -4955,7 +5004,6 @@
         "atlantic-canada",
         "crisis",
         "free",
-        "national",
         "phone",
         "regional"
       ]
@@ -4983,8 +5031,8 @@
         "addictions",
         "atlantic-canada",
         "counselling",
+        "family-caregiver",
         "free",
-        "national",
         "phone",
         "regional"
       ]
@@ -5011,7 +5059,6 @@
       "tags": [
         "atlantic-canada",
         "free",
-        "national",
         "regional"
       ]
     },
@@ -5038,7 +5085,6 @@
         "atlantic-canada",
         "counselling",
         "lgbtq",
-        "national",
         "phone",
         "regional",
         "virtual"
@@ -5066,7 +5112,6 @@
       "tags": [
         "adult",
         "atlantic-canada",
-        "national",
         "regional",
         "self-guided",
         "virtual",
@@ -5094,7 +5139,6 @@
       "sourceSheet": "Atlantic CA Resources",
       "tags": [
         "atlantic-canada",
-        "national",
         "peer-support",
         "regional"
       ]
@@ -5122,8 +5166,8 @@
         "adult",
         "atlantic-canada",
         "counselling",
+        "education",
         "free",
-        "national",
         "regional",
         "self-guided",
         "virtual",
@@ -5153,7 +5197,6 @@
         "atlantic-canada",
         "crisis",
         "free",
-        "national",
         "peer-support",
         "phone",
         "regional"
@@ -5183,7 +5226,6 @@
         "counselling",
         "crisis",
         "free",
-        "national",
         "phone",
         "regional"
       ]
@@ -5212,7 +5254,6 @@
         "atlantic-canada",
         "counselling",
         "in-person",
-        "national",
         "phone",
         "regional",
         "self-guided",
@@ -5240,7 +5281,6 @@
         "atlantic-canada",
         "free",
         "lgbtq",
-        "national",
         "peer-support",
         "regional"
       ]

@@ -5,10 +5,12 @@ export type ResourceTag =
   | "atlantic-canada"
   | "british-columbia"
   | "caribbean"
+  | "child"
   | "counselling"
   | "crisis"
   | "directory"
   | "east-asian"
+  | "education"
   | "eating-disorders"
   | "english"
   | "free"
@@ -20,11 +22,15 @@ export type ResourceTag =
   | "low-cost"
   | "manitoba"
   | "latino"
+  | "family-caregiver"
   | "middle-eastern"
+  | "mens-mental-health"
   | "muslim"
   | "national"
   | "newcomer"
   | "north"
+  | "northwest-territories"
+  | "nunavut"
   | "ontario"
   | "peer-support"
   | "phone"
@@ -38,20 +44,26 @@ export type ResourceTag =
   | "southeast-asian"
   | "student"
   | "text-chat"
+  | "trauma"
   | "virtual"
   | "white"
+  | "young-adult"
+  | "yukon"
   | "youth";
 
 export type Answer = {
   label: string;
   detail: string;
   criteria: Partial<Record<ResourceTag, number>>;
+  finishSurvey?: boolean;
+  exclusive?: boolean;
 };
 
 export type Question = {
   kicker: string;
   title: string;
   answers: Answer[];
+  multiple?: boolean;
 };
 
 export type Resource = {
@@ -89,47 +101,57 @@ export type ScoredResource = Resource & {
 export const questions: Question[] = [
   {
     kicker: "Location",
-    title: "Where should we look first?",
+    title: "First things first, where are we looking today?",
     answers: [
       {
         label: "Alberta",
-        detail: "Prioritize Alberta resources, with national options as backup.",
+        detail: "",
         criteria: { alberta: 9, national: 1 }
       },
       {
+        label: "Atlantic Canada (Nova Scotia, New Brunswick, PEI, NFL)",
+        detail: "",
+        criteria: { "atlantic-canada": 9, national: 1 }
+      },
+      {
         label: "British Columbia",
-        detail: "Prioritize BC resources, with national options as backup.",
+        detail: "",
         criteria: { "british-columbia": 9, national: 1 }
       },
       {
-        label: "Saskatchewan",
-        detail: "Prioritize Saskatchewan resources, with national options as backup.",
-        criteria: { saskatchewan: 9, national: 1 }
-      },
-      {
         label: "Manitoba",
-        detail: "Prioritize Manitoba resources, with national options as backup.",
+        detail: "",
         criteria: { manitoba: 9, national: 1 }
       },
       {
-        label: "Canada-wide",
-        detail: "Show national options that can work from anywhere.",
-        criteria: { national: 5 }
+        label: "Northwest Territories",
+        detail: "",
+        criteria: { "northwest-territories": 9, national: 1 }
+      },
+      {
+        label: "Nunavut",
+        detail: "",
+        criteria: { nunavut: 9, national: 1 }
       },
       {
         label: "Ontario",
-        detail: "Prioritize Ontario resources, with national options as backup.",
+        detail: "",
         criteria: { ontario: 9, national: 1 }
       },
       {
         label: "Quebec",
-        detail: "Prioritize Quebec resources, with national options as backup.",
+        detail: "",
         criteria: { quebec: 9, national: 1 }
       },
       {
-        label: "Atlantic or Northern Canada",
-        detail: "Atlantic Canada, Yukon, NWT, Nunavut, or national options.",
-        criteria: { "atlantic-canada": 8, north: 8, national: 1 }
+        label: "Saskatchewan",
+        detail: "",
+        criteria: { saskatchewan: 9, national: 1 }
+      },
+      {
+        label: "Yukon",
+        detail: "",
+        criteria: { yukon: 9, national: 1 }
       }
     ]
   },
@@ -139,199 +161,104 @@ export const questions: Question[] = [
     answers: [
       {
         label: "Right now",
-        detail: "Safety, crisis, or immediate support is the priority.",
-        criteria: { crisis: 10, phone: 3, "text-chat": 3, free: 2 }
+        detail: "Safety, crisis, or immediate support is the priority",
+        criteria: { crisis: 14, phone: 3, "text-chat": 3, free: 2 },
+        finishSurvey: true
       },
       {
         label: "Today or soon",
-        detail: "I want a reachable support option, but it is not an emergency.",
+        detail: "I'd like to connect with support in the near future, but it's not an emergency",
         criteria: { phone: 3, "text-chat": 3, counselling: 2, "peer-support": 2 }
       },
       {
         label: "Ongoing support",
-        detail: "I am looking for something steady, local, or repeatable.",
+        detail: "I'm looking for something consistent that can support me long term",
         criteria: { counselling: 4, "peer-support": 3, "in-person": 2, regional: 2 }
       },
       {
         label: "Just exploring",
-        detail: "I want to browse options and save useful links.",
+        detail: "I'm curious about what's available and want to see my options",
         criteria: { directory: 4, "self-guided": 4, virtual: 2 }
       }
     ]
   },
   {
-    kicker: "Support type",
-    title: "What kind of support sounds most useful?",
+    kicker: "Your wishlist",
+    title: "Let's make your wishlist, what are you hoping to find? (PS. you can add more than one)",
+    multiple: true,
     answers: [
       {
-        label: "Crisis line or safety help",
-        detail: "A helpline, safety plan, or urgent mental health support.",
+        label: "Crisis support",
+        detail: "I need some immediate contacts I can reach out to when I need help",
         criteria: { crisis: 8, phone: 2, "text-chat": 2, free: 1 }
       },
       {
-        label: "Counselling or therapy",
-        detail: "I want professional, clinical, or counselling support.",
+        label: "Professional help",
+        detail: "Counselling or therapy sounds cool",
         criteria: { counselling: 6, virtual: 1, "in-person": 1 }
       },
       {
         label: "Peer or community support",
-        detail: "I want to talk with people who may understand the experience.",
-        criteria: { "peer-support": 6, youth: 2 }
+        detail: "I want to talk to other people who might understand what I'm going through",
+        criteria: { "peer-support": 6 }
       },
       {
-        label: "Browse resources",
-        detail: "I want a hub, directory, app, or self-guided starting point.",
+        label: "Education",
+        detail: "What is mental health and why does everyone keep talking about it?",
+        criteria: { education: 8, "self-guided": 3 }
+      },
+      {
+        label: "Resource hub",
+        detail: "Resources, resources, and oh look... more resources",
         criteria: { directory: 5, "self-guided": 4, virtual: 2 }
       }
     ]
   },
   {
     kicker: "Format",
-    title: "How would you prefer to connect?",
+    title: "How would you prefer to connect? (PS. you can add more than one)",
+    multiple: true,
     answers: [
       {
-        label: "Phone",
-        detail: "Calling or a live voice feels most helpful.",
-        criteria: { phone: 5, crisis: 1 }
-      },
-      {
-        label: "Text or chat",
-        detail: "Typing feels more doable than talking out loud.",
-        criteria: { "text-chat": 5, virtual: 2 }
+        label: "Call/text",
+        detail: "Let me stay in my bed",
+        criteria: { phone: 5, "text-chat": 5}
       },
       {
         label: "Online or app",
-        detail: "A website, app, or online service is easiest.",
+        detail: "Let me stay in my bed",
         criteria: { virtual: 5, "self-guided": 2 }
       },
       {
         label: "In-person",
-        detail: "I want a clinic, centre, or local service.",
+        detail: "Maybe it's time to get out of my bed",
         criteria: { "in-person": 5, regional: 2 }
       }
     ]
   },
   {
     kicker: "Age group",
-    title: "What age group should the resource fit?",
+    title: "Which age group are you?",
     answers: [
       {
-        label: "Youth or teens",
-        detail: "Resources for young people, teens, or children.",
-        criteria: { youth: 7 }
+        label: "Child (<12)",
+        detail: "",
+        criteria: { child: 8, youth: 3 }
       },
       {
-        label: "Young adults or students",
-        detail: "Resources for post-secondary students or young adults.",
-        criteria: { youth: 4, student: 6, adult: 2 }
+        label: "Youth (13-17)",
+        detail: "",
+        criteria: { youth: 8 }
       },
       {
-        label: "Adults",
-        detail: "Resources that are open to adults or all ages.",
-        criteria: { adult: 5 }
+        label: "Young adult (18-25)",
+        detail: "",
+        criteria: { "young-adult": 8, student: 2, adult: 2 }
       },
       {
-        label: "Any age",
-        detail: "Do not prioritize by age group.",
-        criteria: {}
-      }
-    ]
-  },
-  {
-    kicker: "Identity",
-    title: "Should race or ethnicity shape the results?",
-    answers: [
-      {
-        label: "Indigenous",
-        detail: "First Nations, Inuit, Métis, and other Indigenous-specific supports.",
-        criteria: { indigenous: 24 }
-      },
-      {
-        label: "Black",
-        detail: "African, Afro-Caribbean, or African-Canadian descent.",
-        criteria: { black: 24, caribbean: 20, youth: 2 }
-      },
-      {
-        label: "East Asian",
-        detail: "Chinese, Korean, Japanese, or Taiwanese descent.",
-        criteria: { "east-asian": 24 }
-      },
-      {
-        label: "Latino",
-        detail: "Latin American or Hispanic descent.",
-        criteria: { latino: 24 }
-      },
-      {
-        label: "Middle Eastern",
-        detail: "Arab, Persian, or West Asian descent, including Afghan, Egyptian, Iranian, and related communities.",
-        criteria: { "middle-eastern": 24, muslim: 8 }
-      },
-      {
-        label: "South Asian",
-        detail: "East Indian, Pakistani, Sri Lankan, Indo-Caribbean, and other South Asian descent.",
-        criteria: { "south-asian": 24 }
-      },
-      {
-        label: "Southeast Asian",
-        detail: "Filipino, Vietnamese, Cambodian, Thai, and other Southeast Asian descent.",
-        criteria: { "southeast-asian": 24 }
-      },
-      {
-        label: "White",
-        detail: "European descent.",
-        criteria: { white: 16 }
-      },
-      {
-        label: "No preference",
-        detail: "Do not prioritize by race or ethnicity.",
-        criteria: {}
-      }
-    ]
-  },
-  {
-    kicker: "Sexuality",
-    title: "Should sexuality or gender identity shape the results?",
-    answers: [
-      {
-        label: "LGBTQ2S+ affirming support",
-        detail: "Prioritize queer, trans, Two-Spirit, or questioning support.",
-        criteria: { lgbtq: 8 }
-      },
-      {
-        label: "Trans or gender-questioning support",
-        detail: "Prioritize resources that explicitly mention trans or questioning support.",
-        criteria: { lgbtq: 9, "peer-support": 1 }
-      },
-      {
-        label: "No preference",
-        detail: "Do not prioritize by sexuality or gender identity.",
-        criteria: {}
-      }
-    ]
-  },
-  {
-    kicker: "Cost",
-    title: "What cost range works best?",
-    answers: [
-      {
-        label: "Free only",
-        detail: "Only show no-cost options near the top.",
-        criteria: { free: 8 }
-      },
-      {
-        label: "Free or low-cost",
-        detail: "Sliding scale, pay-what-you-can, or affordable options are okay.",
-        criteria: { free: 4, "low-cost": 6 }
-      },
-      {
-        label: "Cost is flexible",
-        detail: "The best fit matters more than the price.",
-        criteria: { counselling: 1, "in-person": 1, virtual: 1 }
-      },
-      {
-        label: "Not sure",
-        detail: "Keep free resources nearby, but do not filter too hard.",
-        criteria: { free: 2, directory: 1 }
+        label: "Adult (25+)",
+        detail: "",
+        criteria: { adult: 8 }
       }
     ]
   },
@@ -341,49 +268,87 @@ export const questions: Question[] = [
     answers: [
       {
         label: "English",
-        detail: "English-language resources should rank higher.",
-        criteria: { english: 4 }
+        detail: "",
+        criteria: { english: 6 }
       },
       {
         label: "French",
-        detail: "French support should rank higher.",
-        criteria: { french: 6 }
-      },
-      {
-        label: "Either English or French",
-        detail: "Both English and French resources are useful.",
-        criteria: { english: 2, french: 2 }
-      },
-      {
-        label: "No preference",
-        detail: "Do not prioritize by language.",
-        criteria: {}
+        detail: "",
+        criteria: { french: 8 }
       }
     ]
   },
   {
-    kicker: "Topic",
-    title: "Is there a topic we should prioritize?",
+    kicker: "Budget",
+    title: "What's your budget looking like?",
     answers: [
       {
-        label: "Stress, anxiety, or feeling low",
-        detail: "General mental health support, counselling, or self-guided tools.",
-        criteria: { counselling: 3, "self-guided": 3, "peer-support": 2 }
+        label: "$0 is my favourite number",
+        detail: "",
+        criteria: { free: 9 }
       },
       {
-        label: "Substance use",
-        detail: "Addiction or substance-use related resources should rank higher.",
-        criteria: { addictions: 7, counselling: 2 }
+        label: "I can spend a little",
+        detail: "",
+        criteria: { free: 3, "low-cost": 8 }
       },
       {
-        label: "Eating disorders",
-        detail: "Eating disorder support should rank higher.",
-        criteria: { "eating-disorders": 7, counselling: 2 }
+        label: "Cost isn't a deciding factor",
+        detail: "",
+        criteria: { counselling: 1, "in-person": 1, virtual: 1 }
+      }
+    ]
+  },
+  {
+    kicker: "A little more about you",
+    title: "Do any of these sound like you or the support you're looking for? (PS. you can add more than one)",
+    multiple: true,
+    answers: [
+      {
+        label: "Family or caregiver support",
+        detail: "",
+        criteria: { "family-caregiver": 10 }
       },
       {
-        label: "Sexual violence",
-        detail: "Sexual assault or sexual violence resources should rank higher.",
-        criteria: { "sexual-violence": 7, crisis: 2, counselling: 2 }
+        label: "Substance use support",
+        detail: "",
+        criteria: { addictions: 10, counselling: 2 }
+      },
+      {
+        label: "2SLGBTQIA+ community",
+        detail: "",
+        criteria: { lgbtq: 14 }
+      },
+      {
+        label: "Indigenous support",
+        detail: "",
+        criteria: { indigenous: 18 }
+      },
+      {
+        label: "Men's mental health",
+        detail: "",
+        criteria: { "mens-mental-health": 12 }
+      },
+      {
+        label: "Trauma support",
+        detail: "",
+        criteria: { trauma: 12, counselling: 2 }
+      },
+      {
+        label: "Muslim women",
+        detail: "",
+        criteria: { muslim: 16 }
+      },
+      {
+        label: "Black youth",
+        detail: "",
+        criteria: { black: 18, youth: 6 }
+      },
+      {
+        label: "None of these",
+        detail: "",
+        criteria: {},
+        exclusive: true
       }
     ]
   }
@@ -400,14 +365,42 @@ export function buildCriteria(selected: Answer[]) {
 
 export function rankResources(resources: Resource[], selected: Answer[]) {
   const criteria = buildCriteria(selected);
+  const crisisOnly = selected.some((answer) => answer.finishSurvey);
   const selectedRegionalTags = REGION_TAGS.filter((tag) => criteria[tag]);
   const hasRegionalPreference = selectedRegionalTags.length > 0;
+  const hasNationalPreference = !hasRegionalPreference && Boolean(criteria.national);
+  const eligibleResources = resources.filter((resource) => {
+    const isNationalResource = resource.region.startsWith("National");
+    const isSelectedRegion = selectedRegionalTags.some((tag) =>
+      REGION_NAMES_BY_TAG[tag]?.includes(resource.region)
+    );
 
-  return resources
+    const matchesLocation = hasRegionalPreference
+      ? isNationalResource || isSelectedRegion
+      : hasNationalPreference
+        ? isNationalResource
+        : true;
+
+    if (!matchesLocation) {
+      return false;
+    }
+
+    if (crisisOnly) {
+      return resource.tags.includes("crisis");
+    }
+
+    return true;
+  });
+
+  return eligibleResources
     .map<ScoredResource>((resource) => {
       const matchedTags = resource.tags.filter((tag) => criteria[tag]);
       const score = matchedTags.reduce((total, tag) => total + (criteria[tag] ?? 0), 0);
-      const regionBoost = selectedRegionalTags.some((tag) => resource.tags.includes(tag)) ? 18 : 0;
+      const regionBoost = selectedRegionalTags.some((tag) =>
+        REGION_NAMES_BY_TAG[tag]?.includes(resource.region)
+      )
+        ? 30
+        : 0;
       const crisisBoost = criteria.crisis && resource.tags.includes("crisis") ? 12 : 0;
       const ethnicityBoost =
         (criteria.black && resource.tags.includes("black") ? 80 : 0) +
@@ -450,8 +443,23 @@ const REGION_TAGS: ResourceTag[] = [
   "atlantic-canada",
   "british-columbia",
   "manitoba",
-  "north",
+  "northwest-territories",
+  "nunavut",
   "ontario",
   "quebec",
-  "saskatchewan"
+  "saskatchewan",
+  "yukon"
 ];
+
+const REGION_NAMES_BY_TAG: Partial<Record<ResourceTag, string[]>> = {
+  alberta: ["Alberta"],
+  "atlantic-canada": ["Atlantic Canada"],
+  "british-columbia": ["British Columbia"],
+  manitoba: ["Manitoba"],
+  "northwest-territories": ["Northwest Territories"],
+  nunavut: ["Nunavut"],
+  ontario: ["Ontario"],
+  quebec: ["Quebec"],
+  saskatchewan: ["Saskatchewan"],
+  yukon: ["Yukon"]
+};
