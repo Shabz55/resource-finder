@@ -74,6 +74,8 @@ export type Resource = {
   focus: string[];
   focusText: string;
   mode: string;
+  modeHours?: string;
+  language?: string;
   cost: string;
   age: string;
   languageHours: string;

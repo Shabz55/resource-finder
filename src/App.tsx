@@ -537,9 +537,21 @@ function ResourceCard({ resource }: { resource: ScoredResource }) {
             <dd>{resource.cost}</dd>
           </>
         )}
-        {resource.languageHours && (
+        {(resource.modeHours || resource.mode) && (
           <>
             <dt>Hours</dt>
+            <dd>{resource.modeHours || resource.mode}</dd>
+          </>
+        )}
+        {resource.language && (
+          <>
+            <dt>Language</dt>
+            <dd>{resource.language}</dd>
+          </>
+        )}
+        {resource.languageHours && (
+          <>
+            <dt>Language + Hours of Operation</dt>
             <dd>{resource.languageHours}</dd>
           </>
         )}

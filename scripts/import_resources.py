@@ -145,6 +145,8 @@ def rows_for_sheet(workbook, path, shared_strings):
 
 def normalize_header(header):
     value = re.sub(r"\s+", " ", header.strip().lower())
+    if value == "focus (optional)":
+        return "focus"
     if value == "link":
         return "website"
     if value == "phone number":
@@ -157,6 +159,8 @@ def normalize_header(header):
         return "cost"
     if value == "language + hours of operation":
         return "language_hours"
+    if value == "mode + hours of operation":
+        return "mode_hours"
     return value
 
 
@@ -189,6 +193,8 @@ def infer_tags(record, region):
             record.get("service", ""),
             record.get("focus", ""),
             record.get("mode", ""),
+            record.get("mode_hours", ""),
+            record.get("language", ""),
             record.get("cost", ""),
             record.get("age", ""),
             record.get("language_hours", ""),
@@ -241,6 +247,17 @@ def normalize_resource(sheet_name, row_number, headers, row):
     focus = field(record, "focus")
     contact = field(record, "contact information")
     website = field(record, "website")
+    # Updated workbooks include website links alongside phone/text details.
+    contact_url = re.search(r"https?://[^\s]+|www\.[^\s]+", contact)
+    if contact_url:
+        if not website:
+            website = contact_url.group(0)
+        contact = re.sub(
+            r"(?:visit\s+website\s*:\s*)?(?:https?://[^\s]+|www\.[^\s]+)",
+            "",
+            contact,
+            flags=re.IGNORECASE,
+        ).strip()
     description = field(record, "description")
 
     if not any([service, focus, contact, website, description]):
@@ -254,6 +271,8 @@ def normalize_resource(sheet_name, row_number, headers, row):
         "focus": split_focus(focus),
         "focusText": focus,
         "mode": field(record, "mode"),
+        "modeHours": field(record, "mode_hours"),
+        "language": field(record, "language"),
         "cost": field(record, "cost"),
         "age": field(record, "age"),
         "languageHours": field(record, "language_hours"),
